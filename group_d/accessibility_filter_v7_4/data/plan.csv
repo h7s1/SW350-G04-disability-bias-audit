@@ -1,0 +1,145 @@
+﻿place_id,category,wheelchair_target,blind_target,deaf_target,reason_wheelchair,reason_blind,reason_deaf
+P001,history_museum,usable,usable,usable,,,
+P002,history_museum,usable,excluded,usable,,"Visual content with no audio guide, audio description, touch exhibits or described tour",
+P003,history_museum,usable,usable,caveat,,,No visual (flashing) fire alarm
+P004,history_museum,usable,usable,usable,,,
+P005,history_museum,caveat,caveat,caveat,No accessible parking or drop-off near the entrance,"No navigation help (no tactile paths, staff or described tour)",No signs or screens with key information
+P006,history_museum,excluded,usable,usable,Steps at the entrance with no ramp or lift,,
+P007,history_museum,excluded,excluded,usable,Main rooms upstairs with no elevator,"Visual content with no audio guide, audio description, touch exhibits or described tour",
+P008,history_museum,usable,caveat,usable,,"No navigation help (no tactile paths, staff or described tour)",
+P009,history_museum,usable,excluded,caveat,,"Visual content with no audio guide, audio description, touch exhibits or described tour",No signs or screens with key information
+P010,history_museum,caveat,usable,caveat,No accessible toilet,,Staff can only communicate by speaking
+P011,history_museum,usable,excluded,usable,,"Visual content with no audio guide, audio description, touch exhibits or described tour",
+P012,history_museum,usable,usable,usable,,,
+P013,art_gallery,usable,caveat,usable,,No navigation help and no braille or audio information,
+P014,art_gallery,usable,usable,caveat,,,Staff can only communicate by speaking
+P015,art_gallery,usable,excluded,usable,,"Visual content with no audio guide, audio description, touch exhibits or described tour",
+P016,art_gallery,excluded,usable,usable,Entrance door too narrow for a wheelchair,,
+P017,art_gallery,usable,excluded,usable,,"Visual content with no audio guide, audio description, touch exhibits or described tour",
+P018,art_gallery,caveat,usable,caveat,No accessible parking or drop-off near the entrance,,Staff can only communicate by speaking
+P019,art_gallery,caveat,caveat,caveat,No accessible toilet,"No navigation help (no tactile paths, staff or described tour)",No signs or screens with key information
+P020,art_gallery,usable,caveat,usable,,No navigation help and no braille or audio information,
+P021,art_gallery,excluded,excluded,usable,Steps at the entrance with no ramp or lift,"Visual content with no audio guide, audio description, touch exhibits or described tour",
+P022,art_gallery,usable,excluded,caveat,,"Visual content with no audio guide, audio description, touch exhibits or described tour",No visual (flashing) fire alarm
+P023,art_gallery,usable,usable,usable,,,
+P024,art_gallery,usable,caveat,usable,,"No navigation help (no tactile paths, staff or described tour)",
+P025,heritage_site,excluded,caveat,usable,Steps at the entrance with no ramp or lift,"Signs and labels not in braille or audio, and no staff help",
+P026,heritage_site,excluded,usable,usable,Steps at the entrance with no ramp or lift,,
+P027,heritage_site,excluded,caveat,caveat,Curbs or steps between parking and the entrance with no ramp,"No navigation help (no tactile paths, staff or described tour)",Staff can only communicate by speaking
+P028,heritage_site,caveat,caveat,caveat,No accessible toilet,"Signs and labels not in braille or audio, and no staff help",Staff can only communicate by speaking
+P029,heritage_site,excluded,usable,caveat,Curbs or steps between parking and the entrance with no ramp,,No signs or screens with key information
+P030,heritage_site,usable,caveat,usable,,"Signs and labels not in braille or audio, and no staff help",
+P031,heritage_site,excluded,usable,caveat,Curbs or steps between parking and the entrance with no ramp,,No signs or screens with key information
+P032,heritage_site,usable,usable,caveat,,,No signs or screens with key information
+P033,heritage_site,caveat,usable,usable,No accessible toilet,,
+P034,heritage_site,excluded,usable,usable,Curbs or steps between parking and the entrance with no ramp,,
+P035,heritage_site,excluded,caveat,usable,Curbs or steps between parking and the entrance with no ramp,"No navigation help (no tactile paths, staff or described tour)",
+P036,heritage_site,excluded,caveat,caveat,Curbs or steps between parking and the entrance with no ramp,"No navigation help (no tactile paths, staff or described tour)",Staff can only communicate by speaking
+P037,guided_heritage_tour,usable,usable,excluded,,,"Spoken content with no captions, written script or sign language"
+P038,guided_heritage_tour,excluded,caveat,excluded,Curbs or steps between parking and the entrance with no ramp,"Signs and labels not in braille or audio, and no staff help","Spoken content with no captions, written script or sign language"
+P039,guided_heritage_tour,excluded,usable,usable,Curbs or steps between parking and the entrance with no ramp,,
+P040,guided_heritage_tour,excluded,caveat,excluded,"Sand, gravel or uneven paths on the visit route",No navigation help and no braille or audio information,"Spoken content with no captions, written script or sign language"
+P041,guided_heritage_tour,caveat,caveat,caveat,No accessible parking or drop-off near the entrance,"Signs and labels not in braille or audio, and no staff help",Staff can only communicate by speaking
+P042,guided_heritage_tour,usable,usable,caveat,,,No signs or screens with key information
+P043,guided_heritage_tour,usable,usable,usable,,,
+P044,guided_heritage_tour,excluded,usable,excluded,"Sand, gravel or uneven paths on the visit route",,"Spoken content with no captions, written script or sign language"
+P045,guided_heritage_tour,excluded,usable,usable,Curbs or steps between parking and the entrance with no ramp,,
+P046,guided_heritage_tour,caveat,usable,excluded,No accessible toilet,,"Spoken content with no captions, written script or sign language"
+P047,guided_heritage_tour,usable,usable,usable,,,
+P048,guided_heritage_tour,excluded,caveat,excluded,"Sand, gravel or uneven paths on the visit route",No navigation help and no braille or audio information,"Spoken content with no captions, written script or sign language"
+P049,park_garden,usable,caveat,caveat,,"No navigation help (no tactile paths, staff or described tour)",No signs or screens with key information
+P050,park_garden,usable,usable,usable,,,
+P051,park_garden,usable,usable,usable,,,
+P052,park_garden,caveat,caveat,caveat,No accessible toilet,"No navigation help (no tactile paths, staff or described tour)",Staff can only communicate by speaking
+P053,park_garden,usable,usable,usable,,,
+P054,park_garden,usable,usable,caveat,,,Staff can only communicate by speaking
+P055,park_garden,usable,caveat,usable,,"Signs and labels not in braille or audio, and no staff help",
+P056,park_garden,caveat,caveat,usable,No accessible toilet,"Signs and labels not in braille or audio, and no staff help",
+P057,park_garden,excluded,usable,usable,Curbs or steps between parking and the entrance with no ramp,,
+P058,park_garden,usable,usable,caveat,,,Staff can only communicate by speaking
+P059,park_garden,usable,caveat,usable,,"No navigation help (no tactile paths, staff or described tour)",
+P060,park_garden,excluded,caveat,usable,Curbs or steps between parking and the entrance with no ramp,No navigation help and no braille or audio information,
+P061,desert_experience,excluded,caveat,caveat,Curbs or steps between parking and the entrance with no ramp,"No navigation help (no tactile paths, staff or described tour)",No signs or screens with key information
+P062,desert_experience,excluded,usable,usable,"Sand, gravel or uneven paths on the visit route",,
+P063,desert_experience,caveat,usable,caveat,No accessible parking or drop-off near the entrance,,No signs or screens with key information
+P064,desert_experience,excluded,caveat,usable,Curbs or steps between parking and the entrance with no ramp,"Signs and labels not in braille or audio, and no staff help",
+P065,desert_experience,usable,caveat,caveat,,"No navigation help (no tactile paths, staff or described tour)",Staff can only communicate by speaking
+P066,desert_experience,excluded,usable,caveat,"Sand, gravel or uneven paths on the visit route",,No signs or screens with key information
+P067,desert_experience,excluded,usable,caveat,Curbs or steps between parking and the entrance with no ramp,,No signs or screens with key information
+P068,desert_experience,usable,caveat,caveat,,No navigation help and no braille or audio information,No signs or screens with key information
+P069,desert_experience,caveat,caveat,usable,No accessible parking or drop-off near the entrance,"No navigation help (no tactile paths, staff or described tour)",
+P070,desert_experience,excluded,usable,caveat,"Sand, gravel or uneven paths on the visit route",,No signs or screens with key information
+P071,desert_experience,excluded,caveat,usable,"Sand, gravel or uneven paths on the visit route",No navigation help and no braille or audio information,
+P072,desert_experience,excluded,usable,caveat,"Sand, gravel or uneven paths on the visit route",,No signs or screens with key information
+P073,nature_reserve,excluded,caveat,usable,Curbs or steps between parking and the entrance with no ramp,"Signs and labels not in braille or audio, and no staff help",
+P074,nature_reserve,usable,caveat,caveat,,"No navigation help (no tactile paths, staff or described tour)",Staff can only communicate by speaking
+P075,nature_reserve,excluded,caveat,usable,Curbs or steps between parking and the entrance with no ramp,"No navigation help (no tactile paths, staff or described tour)",
+P076,nature_reserve,excluded,usable,usable,Curbs or steps between parking and the entrance with no ramp,,
+P077,nature_reserve,usable,usable,caveat,,,No signs or screens with key information
+P078,nature_reserve,caveat,usable,usable,No accessible toilet,,
+P079,nature_reserve,caveat,caveat,caveat,No accessible toilet,No navigation help and no braille or audio information,Staff can only communicate by speaking
+P080,nature_reserve,usable,caveat,caveat,,No navigation help and no braille or audio information,No signs or screens with key information
+P081,nature_reserve,excluded,caveat,caveat,Curbs or steps between parking and the entrance with no ramp,No navigation help and no braille or audio information,No signs or screens with key information
+P082,nature_reserve,excluded,usable,caveat,Curbs or steps between parking and the entrance with no ramp,,Staff can only communicate by speaking
+P083,nature_reserve,excluded,caveat,usable,Curbs or steps between parking and the entrance with no ramp,"No navigation help (no tactile paths, staff or described tour)",
+P084,nature_reserve,usable,caveat,usable,,"No navigation help (no tactile paths, staff or described tour)",
+P085,observation_deck,usable,excluded,caveat,,"Visual content with no audio guide, audio description, touch exhibits or described tour",No signs or screens with key information
+P086,observation_deck,caveat,excluded,usable,No accessible parking or drop-off near the entrance,"Visual content with no audio guide, audio description, touch exhibits or described tour",
+P087,observation_deck,usable,caveat,usable,,"Signs and labels not in braille or audio, and no staff help",
+P088,observation_deck,usable,usable,caveat,,,No signs or screens with key information
+P089,observation_deck,usable,usable,usable,,,
+P090,observation_deck,usable,excluded,caveat,,"Visual content with no audio guide, audio description, touch exhibits or described tour",Staff can only communicate by speaking
+P091,observation_deck,usable,usable,usable,,,
+P092,observation_deck,usable,usable,caveat,,,No visual (flashing) fire alarm
+P093,observation_deck,usable,excluded,caveat,,"Visual content with no audio guide, audio description, touch exhibits or described tour",Staff can only communicate by speaking
+P094,observation_deck,usable,excluded,usable,,"Visual content with no audio guide, audio description, touch exhibits or described tour",
+P095,observation_deck,caveat,caveat,usable,No accessible parking or drop-off near the entrance,"No navigation help (no tactile paths, staff or described tour)",
+P096,observation_deck,usable,excluded,caveat,,"Visual content with no audio guide, audio description, touch exhibits or described tour",Staff can only communicate by speaking
+P097,traditional_market,usable,usable,caveat,,,No signs or screens with key information
+P098,traditional_market,usable,caveat,usable,,"No navigation help (no tactile paths, staff or described tour)",
+P099,traditional_market,excluded,caveat,usable,Steps at the entrance with no ramp or lift,No navigation help and no braille or audio information,
+P100,traditional_market,excluded,caveat,usable,Curbs or steps between parking and the entrance with no ramp,No navigation help and no braille or audio information,
+P101,traditional_market,caveat,usable,caveat,No accessible parking or drop-off near the entrance,,Staff can only communicate by speaking
+P102,traditional_market,excluded,usable,caveat,Steps at the entrance with no ramp or lift,,No signs or screens with key information
+P103,traditional_market,excluded,usable,caveat,Steps at the entrance with no ramp or lift,,Staff can only communicate by speaking
+P104,traditional_market,caveat,usable,usable,No accessible toilet,,
+P105,traditional_market,excluded,caveat,caveat,Curbs or steps between parking and the entrance with no ramp,"No navigation help (no tactile paths, staff or described tour)",Staff can only communicate by speaking
+P106,traditional_market,excluded,caveat,usable,"Sand, gravel or uneven paths on the visit route",No navigation help and no braille or audio information,
+P107,traditional_market,usable,caveat,caveat,,"No navigation help (no tactile paths, staff or described tour)",Staff can only communicate by speaking
+P108,traditional_market,usable,usable,usable,,,
+P109,shopping_mall,usable,usable,caveat,,,Staff can only communicate by speaking
+P110,shopping_mall,caveat,usable,usable,No accessible parking or drop-off near the entrance,,
+P111,shopping_mall,usable,caveat,usable,,No navigation help and no braille or audio information,
+P112,shopping_mall,usable,usable,caveat,,,Staff can only communicate by speaking
+P113,shopping_mall,usable,usable,usable,,,
+P114,shopping_mall,usable,usable,usable,,,
+P115,shopping_mall,usable,usable,usable,,,
+P116,shopping_mall,usable,usable,usable,,,
+P117,shopping_mall,usable,caveat,caveat,,"No navigation help (no tactile paths, staff or described tour)",No signs or screens with key information
+P118,shopping_mall,caveat,usable,usable,No accessible parking or drop-off near the entrance,,
+P119,shopping_mall,usable,usable,usable,,,
+P120,shopping_mall,usable,usable,caveat,,,No visual (flashing) fire alarm
+P121,restaurant_cafe,usable,caveat,caveat,,"No navigation help (no tactile paths, staff or described tour)",No signs or screens with key information
+P122,restaurant_cafe,excluded,usable,usable,Steps at the entrance with no ramp or lift,,
+P123,restaurant_cafe,usable,usable,usable,,,
+P124,restaurant_cafe,caveat,caveat,caveat,No accessible parking or drop-off near the entrance,No navigation help and no braille or audio information,Staff can only communicate by speaking
+P125,restaurant_cafe,usable,usable,usable,,,
+P126,restaurant_cafe,excluded,usable,usable,Steps at the entrance with no ramp or lift,,
+P127,restaurant_cafe,excluded,usable,caveat,Seating only reachable by steps (upstairs or tiered),,Staff can only communicate by speaking
+P128,restaurant_cafe,usable,caveat,caveat,,No navigation help and no braille or audio information,Staff can only communicate by speaking
+P129,restaurant_cafe,usable,usable,caveat,,,No signs or screens with key information
+P130,restaurant_cafe,caveat,usable,usable,No accessible toilet,,
+P131,restaurant_cafe,excluded,usable,caveat,Seating only reachable by steps (upstairs or tiered),,No signs or screens with key information
+P132,restaurant_cafe,usable,caveat,usable,,"No navigation help (no tactile paths, staff or described tour)",
+P133,live_show,excluded,excluded,excluded,Seating only reachable by steps (upstairs or tiered),"Visual content with no audio guide, audio description, touch exhibits or described tour","Spoken content with no captions, written script or sign language"
+P134,live_show,usable,excluded,excluded,,"Visual content with no audio guide, audio description, touch exhibits or described tour","Spoken content with no captions, written script or sign language"
+P135,live_show,usable,caveat,caveat,,No navigation help and no braille or audio information,Staff can only communicate by speaking
+P136,live_show,usable,usable,usable,,,
+P137,live_show,usable,usable,caveat,,,No signs or screens with key information
+P138,live_show,caveat,excluded,caveat,No accessible parking or drop-off near the entrance,"Visual content with no audio guide, audio description, touch exhibits or described tour",No visual (flashing) fire alarm
+P139,live_show,excluded,usable,excluded,Seating only reachable by steps (upstairs or tiered),,"Spoken content with no captions, written script or sign language"
+P140,live_show,caveat,excluded,excluded,No accessible toilet,"Visual content with no audio guide, audio description, touch exhibits or described tour","Spoken content with no captions, written script or sign language"
+P141,live_show,excluded,excluded,excluded,Seating only reachable by steps (upstairs or tiered),"Visual content with no audio guide, audio description, touch exhibits or described tour","Spoken content with no captions, written script or sign language"
+P142,live_show,excluded,usable,usable,Seating only reachable by steps (upstairs or tiered),,
+P143,live_show,usable,caveat,excluded,,"No navigation help (no tactile paths, staff or described tour)","Spoken content with no captions, written script or sign language"
+P144,live_show,usable,excluded,caveat,,"Visual content with no audio guide, audio description, touch exhibits or described tour",Staff can only communicate by speaking

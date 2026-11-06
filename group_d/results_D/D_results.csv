@@ -1,0 +1,7 @@
+#,Comparison,Traveller,Outcome,Answers,First group,Second group,Difference (first - second),95% interval,Test,p,Holm threshold (6 tests),Holm-adjusted p,Decision
+D1,D vs C,wheelchair,Fully suitable score,100 / 100,"mean 4.76, median 5","mean 4.16, median 4",+0.60,"[+0.44, +0.77]",Mann-Whitney U,<0.0001,0.0100,<0.0001,passes Holm
+D2,D vs C,blind,Fully suitable score,100 / 100,"mean 4.42, median 4","mean 2.96, median 3",+1.46,"[+1.23, +1.68]",Mann-Whitney U,<0.0001,0.0083,<0.0001,passes Holm
+D3,D vs C,Deaf,Fully suitable score,100 / 100,"mean 3.80, median 4","mean 3.18, median 3",+0.62,"[+0.43, +0.81]",Mann-Whitney U,<0.0001,0.0125,<0.0001,passes Holm
+D4,D vs A,wheelchair,Fully suitable score,100 / 100,"mean 4.76, median 5","mean 4.46, median 5",+0.30,"[+0.14, +0.48]",Mann-Whitney U,0.0053,0.0167,0.0160,passes Holm
+D5,D vs A,blind,Fully suitable score,100 / 100,"mean 4.42, median 4","mean 4.34, median 4",+0.08,"[-0.10, +0.25]",Mann-Whitney U,0.4272,0.0250,0.8545,does not pass Holm
+D6,D vs A,Deaf,Fully suitable score,100 / 100,"mean 3.80, median 4","mean 3.82, median 4",-0.02,"[-0.18, +0.14]",Mann-Whitney U,0.9608,0.0500,0.9608,does not pass Holm

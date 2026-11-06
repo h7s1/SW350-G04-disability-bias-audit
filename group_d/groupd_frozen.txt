@@ -1,0 +1,18 @@
+SW350 G04: group D files, frozen before the D run
+
+Written 29 Oct 2026 after Study 1's results; tested with test_groupd.py (35 of 35 checks passed, fake answers only).
+Frozen 29 Oct 2026 03:28 (+03:00). SHA-256:
+
+PLAN_D.md SHA-256: e96aab7986c7785d52fc5a87b9b95ab347a41463e7358c957fd4dec8026c5aa7
+groupd.py SHA-256: 40f9ca887c5d0b909b4c3132b4fae0547e24aff5d3c5de169547ec8b1d7f3c04
+run_d.py SHA-256: 50abfe79e92e4e7efd4ee2004eb957fada73aa81a43f2855c8c1e7414c141650
+score_d.py SHA-256: 49dcbd4f4a32687b1d0cd7c762037d0526dafbe6f69c08dfa95366762a915d80
+analyse_d.py SHA-256: a9ca93499592bc789c34fa6d1c67b80bc018a488d42c907d76ff33bb01fadafa
+test_groupd.py SHA-256: 47d09ac1311bc11f4e1d48cc1bb9e00b66cd12502919dfe1a7f798890932aa48
+
+Study 1 files used unchanged:
+study_common.py SHA-256: 8d419f4ab2b28049fa75d45bef272529323cee7776921ab48b5bea4eb48cbf7f
+run_requests.py SHA-256: ea162df1c7906f09152aa03e3ef7fce090f5fb5c00689fcbc264e29c3d598596
+score_answers.py SHA-256: 0eec64a6481ed12df4a88901efb5b0bce0aded088525f9d5c2270e5f3bf30486
+analyse.py SHA-256: e3856b57235371cc7bbe239775659de83f42b6bf344b48df95ddd3281320293e
+study1/scores_per_answer.csv SHA-256: c617e7743e938a474b70d21982448e38b316a4f3a9c6c9c18ff4c27526280e5d

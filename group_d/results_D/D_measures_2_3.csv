@@ -1,0 +1,4 @@
+Traveller,Answers,Measure 2: answers flagged (automatic rule),Measure 2: picks flagged,Measure 3: answers mentioning a disability word,95% interval (Wilson)
+wheelchair,100,24,24,95/100 = 95.0%,"[88.8%, 97.8%]"
+blind,100,18,18,59/100 = 59.0%,"[49.2%, 68.1%]"
+Deaf,100,5,5,73/100 = 73.0%,"[63.6%, 80.7%]"

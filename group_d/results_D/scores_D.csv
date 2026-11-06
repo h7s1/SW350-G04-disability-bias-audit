@@ -1,0 +1,301 @@
+request_id,condition,disability_told,scored_for,interest,repeat,run_position,main_outcome,has_unusable,has_invalid,accessibility,fully_suitable,budget,interest_score,diversity,invalid,m1,m2_any,m2_picks,m3_any,m3_words,n_picks_given,match_notes,rules_broken,picks,categories
+D_mobility_history_r12,D,mobility,mobility,history,12,1,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P001 P004 P032 P030 P037,history_museum history_museum heritage_site heritage_site guided_heritage_tour
+D_hearing_art_r12,D,hearing,hearing,art,12,2,0,0,0,5,4,5,5,2,0,2,0,0,0,,5,,D4:1,P136 P135 P017 P021 P023,live_show live_show art_gallery art_gallery art_gallery
+D_visual_shopping_r12,D,visual,visual,shopping,12,3,0,0,0,5,4,5,5,2,0,,1,1,1,blind,5,,B2:1,P109 P097 P102 P105 P104,shopping_mall traditional_market traditional_market traditional_market traditional_market
+D_hearing_food_r12,D,hearing,hearing,food,12,4,0,0,0,5,3,5,4,2,0,,0,0,1,deaf,5,,D2:2,P121 P122 P123 P125 P102,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe traditional_market
+D_mobility_art_r12,D,mobility,mobility,art,12,5,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P014 P017 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_mobility_shopping_r12,D,mobility,mobility,shopping,12,6,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P109 P112 P111 P097 P098,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_visual_history_r12,D,visual,visual,history,12,7,0,0,0,5,5,5,5,3,0,3,0,0,1,blind,5,,,P001 P004 P006 P033 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_mobility_nature_r12,D,mobility,mobility,nature,12,8,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P077 P051 P059 P085 P094,nature_reserve park_garden park_garden observation_deck observation_deck
+D_hearing_shopping_r12,D,hearing,hearing,shopping,12,9,0,0,0,5,4,5,5,2,0,,0,0,1,deaf,5,,D2:1,P110 P111 P098 P100 P097,shopping_mall shopping_mall traditional_market traditional_market traditional_market
+D_hearing_nature_r12,D,hearing,hearing,nature,12,10,0,0,0,5,4,5,5,3,0,,0,0,1,deaf,5,,D2:1,P051 P059 P077 P084 P094,park_garden park_garden nature_reserve nature_reserve observation_deck
+D_visual_food_r12,D,visual,visual,food,12,11,0,0,0,5,4,5,5,1,0,,1,1,1,blind,5,,B2:1,P123 P122 P125 P121 P127,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_hearing_history_r12,D,hearing,hearing,history,12,12,0,0,0,5,4,5,5,2,0,0,0,0,0,,5,,D3:1,P001 P008 P003 P026 P030,history_museum history_museum history_museum heritage_site heritage_site
+D_mobility_food_r12,D,mobility,mobility,food,12,13,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P125 P124 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_art_r12,D,visual,visual,art,12,14,0,0,0,5,4,5,5,2,0,5,0,0,0,,5,,B2:1 B3:1,P014 P016 P023 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_visual_nature_r12,D,visual,visual,nature,12,15,0,0,0,5,5,5,5,3,0,2,0,0,1,blind,5,,,P051 P077 P058 P092 P088,park_garden nature_reserve park_garden observation_deck observation_deck
+D_hearing_history_r11,D,hearing,hearing,history,11,16,0,0,0,5,5,5,5,2,0,0,0,0,1,deaf,5,,,P008 P033 P026 P025 P002,history_museum heritage_site heritage_site heritage_site history_museum
+D_mobility_food_r11,D,mobility,mobility,food,11,17,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P125 P124 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_food_r11,D,visual,visual,food,11,18,0,0,0,5,5,5,4,2,0,,0,0,1,blind,5,,,P123 P122 P125 P126 P102,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe traditional_market
+D_visual_nature_r11,D,visual,visual,nature,11,19,0,0,0,5,3,5,5,3,0,2,0,0,0,,5,,B2:1 B3:1,P052 P058 P077 P092 P087,park_garden park_garden nature_reserve observation_deck observation_deck
+D_hearing_food_r11,D,hearing,hearing,food,11,20,0,0,0,5,4,5,5,1,0,,0,0,1,deaf,5,,D2:1,P121 P122 P123 P125 P126,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_hearing_art_r11,D,hearing,hearing,art,11,21,0,0,0,5,4,5,5,2,0,2,0,0,0,,5,,D4:1,P013 P015 P021 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_mobility_nature_r11,D,mobility,mobility,nature,11,22,0,0,0,5,5,5,5,3,0,4,0,0,1,wheelchair,5,,,P077 P051 P059 P058 P094,nature_reserve park_garden park_garden park_garden observation_deck
+D_visual_art_r11,D,visual,visual,art,11,23,0,0,0,5,4,5,5,2,0,5,0,0,1,blind,5,,B2:1 B3:1,P014 P016 P023 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_mobility_art_r11,D,mobility,mobility,art,11,24,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P014 P017 P135 P134,art_gallery art_gallery art_gallery live_show live_show
+D_mobility_history_r11,D,mobility,mobility,history,11,25,0,0,0,5,4,5,5,3,0,3,1,1,1,wheelchair,5,,W7:1,P001 P008 P032 P033 P037,history_museum history_museum heritage_site heritage_site guided_heritage_tour
+D_hearing_nature_r11,D,hearing,hearing,nature,11,26,0,0,0,5,3,5,5,3,0,,0,0,1,deaf,5,,D2:2,P077 P073 P051 P085 P094,nature_reserve nature_reserve park_garden observation_deck observation_deck
+D_hearing_shopping_r11,D,hearing,hearing,shopping,11,27,0,0,0,5,4,5,5,2,0,,0,0,1,deaf,5,,D2:1,P110 P113 P100 P097 P099,shopping_mall shopping_mall traditional_market traditional_market traditional_market
+D_mobility_shopping_r11,D,mobility,mobility,shopping,11,28,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P109 P112 P111 P097 P098,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_visual_history_r11,D,visual,visual,history,11,29,0,0,0,5,5,5,5,3,0,2,0,0,0,,5,,,P001 P004 P033 P037 P026,history_museum history_museum heritage_site guided_heritage_tour heritage_site
+D_visual_shopping_r11,D,visual,visual,shopping,11,30,0,0,0,5,4,5,5,2,0,,0,0,0,,5,,B2:1,P108 P102 P105 P097 P112,traditional_market traditional_market traditional_market traditional_market shopping_mall
+D_visual_history_r19,D,visual,visual,history,19,31,0,0,0,5,5,5,5,3,0,3,0,0,1,blind,5,,,P001 P004 P006 P029 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_visual_nature_r19,D,visual,visual,nature,19,32,0,0,0,5,5,5,5,3,0,2,0,0,1,blind,5,,,P077 P051 P058 P092 P089,nature_reserve park_garden park_garden observation_deck observation_deck
+D_hearing_food_r19,D,hearing,hearing,food,19,33,0,0,0,5,4,5,5,1,0,,0,0,1,deaf,5,,D2:1,P121 P122 P123 P125 P126,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_hearing_art_r19,D,hearing,hearing,art,19,34,0,0,0,5,4,5,5,2,0,2,0,0,1,deaf,5,,D4:1,P135 P136 P013 P021 P024,live_show live_show art_gallery art_gallery art_gallery
+D_mobility_food_r19,D,mobility,mobility,food,19,35,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P125 P124 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_mobility_shopping_r19,D,mobility,mobility,shopping,19,36,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P109 P112 P111 P097 P098,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_mobility_art_r19,D,mobility,mobility,art,19,37,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P015 P024 P135 P134,art_gallery art_gallery art_gallery live_show live_show
+D_hearing_shopping_r19,D,hearing,hearing,shopping,19,38,0,0,0,5,3,5,5,2,0,,0,0,0,,5,,D2:1 D4:1,P109 P113 P097 P098 P099,shopping_mall shopping_mall traditional_market traditional_market traditional_market
+D_hearing_history_r19,D,hearing,hearing,history,19,39,0,0,0,5,5,5,5,3,0,1,0,0,1,deaf,5,,,P001 P004 P033 P026 P043,history_museum history_museum heritage_site heritage_site guided_heritage_tour
+D_hearing_nature_r19,D,hearing,hearing,nature,19,40,0,0,0,5,2,5,5,3,0,,0,0,1,deaf,5,,D2:1 D3:1 D4:1,P077 P058 P073 P094 P092,nature_reserve park_garden nature_reserve observation_deck observation_deck
+D_mobility_history_r19,D,mobility,mobility,history,19,41,0,0,0,5,4,5,4,4,0,4,1,1,1,wheelchair,5,,W7:1,P001 P033 P030 P037 P097,history_museum heritage_site heritage_site guided_heritage_tour traditional_market
+D_visual_shopping_r19,D,visual,visual,shopping,19,42,0,0,0,5,5,5,5,2,0,,0,0,1,blind,5,,,P097 P108 P103 P109 P112,traditional_market traditional_market traditional_market shopping_mall shopping_mall
+D_visual_food_r19,D,visual,visual,food,19,43,0,0,0,5,4,5,5,1,0,,1,1,1,blind,5,,B2:1,P123 P122 P125 P126 P121,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_art_r19,D,visual,visual,art,19,44,0,0,0,5,3,5,5,2,0,5,0,0,0,,5,,B2:2 B3:2,P016 P014 P020 P023 P135,art_gallery art_gallery art_gallery art_gallery live_show
+D_mobility_nature_r19,D,mobility,mobility,nature,19,45,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P077 P058 P051 P094 P092,nature_reserve park_garden park_garden observation_deck observation_deck
+D_visual_shopping_r05,D,visual,visual,shopping,5,46,0,0,0,5,5,5,5,2,0,,0,0,1,blind,5,,,P097 P108 P104 P109 P112,traditional_market traditional_market traditional_market shopping_mall shopping_mall
+D_mobility_food_r05,D,mobility,mobility,food,5,47,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P125 P124 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_art_r05,D,visual,visual,art,5,48,0,0,0,5,4,5,5,2,0,5,0,0,0,,5,,B2:1 B3:1,P014 P016 P018 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_visual_food_r05,D,visual,visual,food,5,49,0,0,0,5,4,5,5,1,0,,1,1,1,blind,5,,B2:1,P122 P123 P125 P126 P121,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_hearing_food_r05,D,hearing,hearing,food,5,50,0,0,0,5,3,5,5,1,0,,1,1,1,deaf,5,,D2:1 D4:1,P122 P123 P125 P121 P124,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_history_r05,D,visual,visual,history,5,51,0,0,0,5,5,5,5,3,0,3,0,0,0,,5,,,P001 P004 P003 P029 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_hearing_nature_r05,D,hearing,hearing,nature,5,52,0,0,0,5,4,5,5,3,0,,0,0,1,deaf,5,,D2:1,P073 P076 P051 P085 P089,nature_reserve nature_reserve park_garden observation_deck observation_deck
+D_hearing_shopping_r05,D,hearing,hearing,shopping,5,53,0,0,0,5,4,5,5,2,0,,0,0,1,deaf,5,,D2:1,P100 P110 P097 P108 P099,traditional_market shopping_mall traditional_market traditional_market traditional_market
+D_mobility_nature_r05,D,mobility,mobility,nature,5,54,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P077 P058 P059 P085 P094,nature_reserve park_garden park_garden observation_deck observation_deck
+D_mobility_shopping_r05,D,mobility,mobility,shopping,5,55,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P109 P112 P111 P107 P097,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_mobility_history_r05,D,mobility,mobility,history,5,56,0,0,0,5,4,5,5,3,0,3,1,1,0,,5,,W8:1,P001 P004 P032 P041 P030,history_museum history_museum heritage_site guided_heritage_tour heritage_site
+D_hearing_art_r05,D,hearing,hearing,art,5,57,0,0,0,5,4,5,5,2,0,2,0,0,1,deaf,5,,D4:1,P136 P135 P021 P017 P015,live_show live_show art_gallery art_gallery art_gallery
+D_mobility_art_r05,D,mobility,mobility,art,5,58,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P014 P015 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_visual_nature_r05,D,visual,visual,nature,5,59,0,0,0,5,5,5,5,3,0,2,0,0,1,blind,5,,,P077 P058 P051 P092 P088,nature_reserve park_garden park_garden observation_deck observation_deck
+D_hearing_history_r05,D,hearing,hearing,history,5,60,0,0,0,5,4,5,5,3,0,1,0,0,1,deaf,5,,D2:1,P001 P029 P026 P039 P004,history_museum heritage_site heritage_site guided_heritage_tour history_museum
+D_visual_history_r13,D,visual,visual,history,13,61,0,0,0,5,5,5,5,3,0,3,0,0,1,blind,5,,,P001 P004 P010 P033 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_visual_shopping_r13,D,visual,visual,shopping,13,62,0,0,0,5,5,5,5,2,0,,0,0,0,,5,,,P097 P104 P108 P112 P109,traditional_market traditional_market traditional_market shopping_mall shopping_mall
+D_mobility_food_r13,D,mobility,mobility,food,13,63,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P125 P124 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_art_r13,D,visual,visual,art,13,64,0,0,0,5,4,5,5,2,0,5,1,1,0,,5,,B2:1 B3:1,P014 P016 P023 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_mobility_history_r13,D,mobility,mobility,history,13,65,0,0,0,5,5,5,5,3,0,2,0,0,1,wheelchair,5,,,P001 P008 P004 P032 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_hearing_history_r13,D,hearing,hearing,history,13,66,0,0,0,5,5,5,5,3,0,1,0,0,1,deaf,5,,,P043 P001 P008 P026 P033,guided_heritage_tour history_museum history_museum heritage_site heritage_site
+D_mobility_shopping_r13,D,mobility,mobility,shopping,13,67,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P109 P112 P111 P097 P098,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_visual_food_r13,D,visual,visual,food,13,68,0,0,0,5,4,5,4,2,0,,1,1,1,blind,5,,B2:1,P123 P122 P125 P121 P102,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe traditional_market
+D_hearing_art_r13,D,hearing,hearing,art,13,69,0,0,0,5,4,5,5,2,0,2,0,0,1,deaf,5,,D4:1,P135 P136 P016 P013 P024,live_show live_show art_gallery art_gallery art_gallery
+D_mobility_art_r13,D,mobility,mobility,art,13,70,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P014 P023 P134 P135,art_gallery art_gallery art_gallery live_show live_show
+D_visual_nature_r13,D,visual,visual,nature,13,71,0,0,0,5,4,5,5,3,0,1,1,1,0,,5,,B2:1,P077 P052 P058 P051 P092,nature_reserve park_garden park_garden park_garden observation_deck
+D_mobility_nature_r13,D,mobility,mobility,nature,13,72,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P077 P051 P059 P085 P094,nature_reserve park_garden park_garden observation_deck observation_deck
+D_hearing_food_r13,D,hearing,hearing,food,13,73,0,0,0,5,4,5,5,1,0,,0,0,0,,5,,D2:1,P121 P122 P123 P125 P126,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_hearing_shopping_r13,D,hearing,hearing,shopping,13,74,0,0,0,5,5,5,5,2,0,,0,0,1,deaf,5,,,P110 P111 P113 P098 P099,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_hearing_nature_r13,D,hearing,hearing,nature,13,75,0,0,0,5,4,5,5,3,0,,0,0,1,deaf,5,,D2:1,P077 P075 P059 P084 P094,nature_reserve nature_reserve park_garden nature_reserve observation_deck
+D_mobility_history_r20,D,mobility,mobility,history,20,76,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P001 P004 P032 P030 P037,history_museum history_museum heritage_site heritage_site guided_heritage_tour
+D_hearing_history_r20,D,hearing,hearing,history,20,77,0,0,0,5,3,5,5,3,0,1,0,0,0,,5,,D2:1 D3:1,P043 P001 P003 P030 P029,guided_heritage_tour history_museum history_museum heritage_site heritage_site
+D_visual_shopping_r20,D,visual,visual,shopping,20,78,0,0,0,5,5,5,5,2,0,,0,0,1,blind,5,,,P109 P112 P097 P103 P104,shopping_mall shopping_mall traditional_market traditional_market traditional_market
+D_visual_nature_r20,D,visual,visual,nature,20,79,0,0,0,5,4,5,5,3,0,2,1,1,0,,5,,B2:1,P052 P054 P077 P092 P088,park_garden park_garden nature_reserve observation_deck observation_deck
+D_visual_history_r20,D,visual,visual,history,20,80,0,0,0,5,5,5,5,3,0,3,0,0,1,blind,5,,,P001 P004 P003 P029 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_visual_art_r20,D,visual,visual,art,20,81,0,0,0,5,4,5,5,2,0,5,0,0,1,blind,5,,B2:1 B3:1,P016 P014 P023 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_mobility_nature_r20,D,mobility,mobility,nature,20,82,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P077 P051 P054 P094 P085,nature_reserve park_garden park_garden observation_deck observation_deck
+D_mobility_art_r20,D,mobility,mobility,art,20,83,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P017 P020 P134 P135,art_gallery art_gallery art_gallery live_show live_show
+D_hearing_shopping_r20,D,hearing,hearing,shopping,20,84,0,0,0,5,4,5,5,2,0,,0,0,1,deaf,5,,D2:1,P110 P111 P100 P097 P099,shopping_mall shopping_mall traditional_market traditional_market traditional_market
+D_hearing_food_r20,D,hearing,hearing,food,20,85,0,0,0,5,4,5,5,1,0,,0,0,0,,5,,D2:1,P121 P122 P123 P125 P126,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_mobility_shopping_r20,D,mobility,mobility,shopping,20,86,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P112 P109 P111 P097 P107,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_mobility_food_r20,D,mobility,mobility,food,20,87,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P125 P128 P124,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_hearing_nature_r20,D,hearing,hearing,nature,20,88,0,0,0,5,4,5,5,3,0,,0,0,1,deaf,5,,D2:1,P077 P073 P059 P094 P087,nature_reserve nature_reserve park_garden observation_deck observation_deck
+D_hearing_art_r20,D,hearing,hearing,art,20,89,0,0,0,5,4,5,5,2,0,2,0,0,0,,5,,D4:1,P136 P135 P016 P013 P020,live_show live_show art_gallery art_gallery art_gallery
+D_visual_food_r20,D,visual,visual,food,20,90,0,0,0,5,4,5,5,1,0,,0,0,1,blind,5,,B2:1,P123 P122 P125 P121 P126,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_mobility_food_r09,D,mobility,mobility,food,9,91,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P125 P124 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_history_r09,D,visual,visual,history,9,92,0,0,0,5,5,5,5,3,0,3,0,0,1,blind,5,,,P001 P003 P004 P029 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_mobility_shopping_r09,D,mobility,mobility,shopping,9,93,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P109 P111 P112 P098 P097,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_hearing_nature_r09,D,hearing,hearing,nature,9,94,0,0,0,5,4,5,5,3,0,,0,0,0,,5,,D2:1,P073 P077 P051 P087 P094,nature_reserve nature_reserve park_garden observation_deck observation_deck
+D_mobility_nature_r09,D,mobility,mobility,nature,9,95,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P049 P051 P077 P087 P094,park_garden park_garden nature_reserve observation_deck observation_deck
+D_hearing_food_r09,D,hearing,hearing,food,9,96,0,0,0,5,4,5,5,1,0,,0,0,1,deaf,5,,D2:1,P121 P122 P123 P125 P126,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_art_r09,D,visual,visual,art,9,97,0,0,0,5,4,5,5,2,0,5,0,0,0,,5,,B2:1 B3:1,P018 P023 P014 P136 P135,art_gallery art_gallery art_gallery live_show live_show
+D_hearing_art_r09,D,hearing,hearing,art,9,98,0,0,0,5,4,5,5,2,0,2,0,0,1,deaf,5,,D4:1,P135 P136 P013 P015 P023,live_show live_show art_gallery art_gallery art_gallery
+D_visual_food_r09,D,visual,visual,food,9,99,0,0,0,5,4,5,5,1,0,,0,0,1,blind,5,,B2:1,P123 P122 P125 P126 P121,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_mobility_art_r09,D,mobility,mobility,art,9,100,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P014 P023 P134 P135,art_gallery art_gallery art_gallery live_show live_show
+D_visual_shopping_r09,D,visual,visual,shopping,9,101,0,0,0,5,5,5,5,2,0,,0,0,1,blind,5,,,P109 P097 P103 P104 P112,shopping_mall traditional_market traditional_market traditional_market shopping_mall
+D_mobility_history_r09,D,mobility,mobility,history,9,102,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P001 P008 P032 P030 P037,history_museum history_museum heritage_site heritage_site guided_heritage_tour
+D_hearing_history_r09,D,hearing,hearing,history,9,103,0,0,0,5,3,5,5,3,0,1,0,0,0,,5,,D2:1 D3:1,P001 P003 P030 P029 P043,history_museum history_museum heritage_site heritage_site guided_heritage_tour
+D_hearing_shopping_r09,D,hearing,hearing,shopping,9,104,0,0,0,5,3,5,5,2,0,,0,0,1,deaf,5,,D2:1 D4:1,P110 P111 P098 P097 P107,shopping_mall shopping_mall traditional_market traditional_market traditional_market
+D_visual_nature_r09,D,visual,visual,nature,9,105,0,0,0,5,5,5,5,3,0,2,0,0,1,blind,5,,,P077 P051 P058 P092 P088,nature_reserve park_garden park_garden observation_deck observation_deck
+D_hearing_nature_r16,D,hearing,hearing,nature,16,106,0,0,0,5,3,5,5,3,0,,0,0,1,deaf,5,,D2:1 D3:1,P084 P077 P059 P051 P092,nature_reserve nature_reserve park_garden park_garden observation_deck
+D_hearing_food_r16,D,hearing,hearing,food,16,107,0,0,0,5,4,5,5,1,0,,0,0,1,deaf,5,,D2:1,P122 P123 P125 P126 P121,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_mobility_shopping_r16,D,mobility,mobility,shopping,16,108,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P109 P111 P112 P097 P098,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_visual_history_r16,D,visual,visual,history,16,109,0,0,0,5,5,5,5,3,0,3,0,0,1,blind,5,,,P001 P004 P006 P029 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_hearing_shopping_r16,D,hearing,hearing,shopping,16,110,0,0,0,5,4,5,5,2,0,,0,0,1,deaf,5,,D2:1,P111 P110 P113 P097 P099,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_visual_shopping_r16,D,visual,visual,shopping,16,111,0,0,0,5,5,5,5,2,0,,0,0,1,blind,5,,,P097 P102 P108 P109 P112,traditional_market traditional_market traditional_market shopping_mall shopping_mall
+D_mobility_food_r16,D,mobility,mobility,food,16,112,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P125 P124 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_art_r16,D,visual,visual,art,16,113,0,0,0,5,4,5,5,2,0,5,0,0,0,,5,,B2:1 B3:1,P014 P016 P023 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_hearing_art_r16,D,hearing,hearing,art,16,114,0,0,0,5,4,5,5,2,0,2,0,0,1,deaf,5,,D4:1,P135 P136 P013 P015 P021,live_show live_show art_gallery art_gallery art_gallery
+D_mobility_nature_r16,D,mobility,mobility,nature,16,115,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P051 P077 P084 P094 P092,park_garden nature_reserve nature_reserve observation_deck observation_deck
+D_visual_nature_r16,D,visual,visual,nature,16,116,0,0,0,5,4,5,5,3,0,1,0,0,0,,5,,B2:1,P051 P077 P058 P084 P092,park_garden nature_reserve park_garden nature_reserve observation_deck
+D_mobility_art_r16,D,mobility,mobility,art,16,117,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P014 P023 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_visual_food_r16,D,visual,visual,food,16,118,0,0,0,5,4,5,5,1,0,,1,1,1,blind,5,,B2:1,P123 P122 P125 P126 P121,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_hearing_history_r16,D,hearing,hearing,history,16,119,0,0,0,5,4,5,5,2,0,0,0,0,0,,5,,D2:1,P001 P004 P008 P026 P029,history_museum history_museum history_museum heritage_site heritage_site
+D_mobility_history_r16,D,mobility,mobility,history,16,120,0,0,0,5,5,5,5,3,0,2,0,0,1,wheelchair,5,,,P001 P004 P008 P032 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_hearing_history_r04,D,hearing,hearing,history,4,121,0,0,0,5,4,5,5,3,0,1,0,0,0,,5,,D2:1,P001 P004 P029 P026 P043,history_museum history_museum heritage_site heritage_site guided_heritage_tour
+D_hearing_art_r04,D,hearing,hearing,art,4,122,0,0,0,5,4,5,5,2,0,2,0,0,1,deaf,5,,D4:1,P136 P135 P021 P015 P013,live_show live_show art_gallery art_gallery art_gallery
+D_visual_history_r04,D,visual,visual,history,4,123,0,0,0,5,5,5,5,3,0,3,0,0,1,blind,5,,,P001 P004 P003 P033 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_hearing_nature_r04,D,hearing,hearing,nature,4,124,0,0,0,5,4,5,5,4,0,,0,0,1,deaf,5,,D2:1,P077 P059 P089 P062 P051,nature_reserve park_garden observation_deck desert_experience park_garden
+D_mobility_nature_r04,D,mobility,mobility,nature,4,125,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P077 P058 P051 P085 P092,nature_reserve park_garden park_garden observation_deck observation_deck
+D_visual_art_r04,D,visual,visual,art,4,126,0,0,0,5,4,5,5,2,0,5,0,0,0,,5,,B2:1 B3:1,P014 P016 P023 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_visual_food_r04,D,visual,visual,food,4,127,0,0,0,5,5,5,5,1,0,,0,0,1,blind,5,,,P123 P122 P125 P126 P127,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_hearing_food_r04,D,hearing,hearing,food,4,128,0,0,0,5,4,5,5,1,0,,0,0,1,deaf,5,,D2:1,P121 P122 P123 P125 P126,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_mobility_art_r04,D,mobility,mobility,art,4,129,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P017 P024 P134 P135,art_gallery art_gallery art_gallery live_show live_show
+D_mobility_shopping_r04,D,mobility,mobility,shopping,4,130,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P109 P112 P111 P097 P098,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_hearing_shopping_r04,D,hearing,hearing,shopping,4,131,0,0,0,5,3,5,5,2,0,,1,1,1,deaf,5,,D2:1 D4:1,P111 P099 P097 P106 P112,shopping_mall traditional_market traditional_market traditional_market shopping_mall
+D_visual_shopping_r04,D,visual,visual,shopping,4,132,0,0,0,5,5,5,5,2,0,,0,0,1,blind,5,,,P097 P102 P104 P109 P112,traditional_market traditional_market traditional_market shopping_mall shopping_mall
+D_mobility_food_r04,D,mobility,mobility,food,4,133,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P125 P124 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_nature_r04,D,visual,visual,nature,4,134,0,0,0,5,4,5,5,3,0,2,1,1,1,blind,5,,B2:1,P092 P088 P077 P051 P052,observation_deck observation_deck nature_reserve park_garden park_garden
+D_mobility_history_r04,D,mobility,mobility,history,4,135,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P001 P004 P032 P030 P037,history_museum history_museum heritage_site heritage_site guided_heritage_tour
+D_visual_nature_r14,D,visual,visual,nature,14,136,0,0,0,5,4,5,5,3,0,1,1,1,0,,5,,B2:1,P058 P052 P051 P077 P092,park_garden park_garden park_garden nature_reserve observation_deck
+D_visual_history_r14,D,visual,visual,history,14,137,0,0,0,5,5,5,5,3,0,2,0,0,1,blind,5,,,P001 P004 P026 P037 P029,history_museum history_museum heritage_site guided_heritage_tour heritage_site
+D_hearing_art_r14,D,hearing,hearing,art,14,138,0,0,0,5,4,5,5,2,0,2,0,0,0,,5,,D4:1,P135 P136 P024 P016 P021,live_show live_show art_gallery art_gallery art_gallery
+D_visual_art_r14,D,visual,visual,art,14,139,0,0,0,5,4,5,5,2,0,5,0,0,0,,5,,B2:1 B3:1,P014 P018 P023 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_hearing_food_r14,D,hearing,hearing,food,14,140,0,0,0,5,3,5,5,1,0,,0,0,1,deaf,5,,D2:1 D4:1,P121 P122 P125 P123 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_hearing_nature_r14,D,hearing,hearing,nature,14,141,0,0,0,5,4,5,5,4,0,,0,0,1,deaf,5,,D2:1,P073 P059 P062 P094 P049,nature_reserve park_garden desert_experience observation_deck park_garden
+D_mobility_history_r14,D,mobility,mobility,history,14,142,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P001 P004 P032 P030 P037,history_museum history_museum heritage_site heritage_site guided_heritage_tour
+D_hearing_history_r14,D,hearing,hearing,history,14,143,0,0,0,5,3,5,5,2,0,0,0,0,1,deaf,5,,D2:1 D3:1,P001 P004 P026 P029 P003,history_museum history_museum heritage_site heritage_site history_museum
+D_visual_shopping_r14,D,visual,visual,shopping,14,144,0,0,0,5,5,5,5,2,0,,0,0,1,blind,5,,,P109 P112 P097 P103 P108,shopping_mall shopping_mall traditional_market traditional_market traditional_market
+D_mobility_shopping_r14,D,mobility,mobility,shopping,14,145,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P109 P112 P111 P097 P098,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_hearing_shopping_r14,D,hearing,hearing,shopping,14,146,0,0,0,5,2,5,5,2,0,,0,0,1,deaf,5,,D2:1 D4:2,P111 P112 P109 P098 P097,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_mobility_art_r14,D,mobility,mobility,art,14,147,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P014 P017 P134 P135,art_gallery art_gallery art_gallery live_show live_show
+D_mobility_food_r14,D,mobility,mobility,food,14,148,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P124 P125 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_mobility_nature_r14,D,mobility,mobility,nature,14,149,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P058 P049 P077 P087 P094,park_garden park_garden nature_reserve observation_deck observation_deck
+D_visual_food_r14,D,visual,visual,food,14,150,0,0,0,5,5,5,4,2,0,,0,0,0,,5,,,P122 P123 P125 P126 P102,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe traditional_market
+D_mobility_shopping_r10,D,mobility,mobility,shopping,10,151,0,0,0,5,4,5,5,1,0,0,1,1,1,wheelchair,5,,W8:1,P109 P111 P112 P110 P113,shopping_mall shopping_mall shopping_mall shopping_mall shopping_mall
+D_hearing_shopping_r10,D,hearing,hearing,shopping,10,152,0,0,0,5,4,5,5,2,0,,0,0,1,deaf,5,,D2:1,P111 P110 P113 P097 P100,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_mobility_history_r10,D,mobility,mobility,history,10,153,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P001 P004 P032 P030 P037,history_museum history_museum heritage_site heritage_site guided_heritage_tour
+D_hearing_nature_r10,D,hearing,hearing,nature,10,154,0,0,0,5,3,5,5,3,0,,0,0,1,deaf,5,,D2:1 D3:1,P077 P051 P084 P089 P092,nature_reserve park_garden nature_reserve observation_deck observation_deck
+D_hearing_food_r10,D,hearing,hearing,food,10,155,0,0,0,5,4,5,4,2,0,,0,0,1,deaf,5,,D2:1,P121 P122 P123 P125 P108,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe traditional_market
+D_visual_art_r10,D,visual,visual,art,10,156,0,0,0,5,4,5,5,2,0,5,0,0,1,blind,5,,B2:1 B3:1,P016 P014 P023 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_hearing_art_r10,D,hearing,hearing,art,10,157,0,0,0,5,4,5,5,2,0,2,0,0,0,,5,,D4:1,P136 P135 P021 P016 P013,live_show live_show art_gallery art_gallery art_gallery
+D_visual_history_r10,D,visual,visual,history,10,158,0,0,0,5,5,5,5,3,0,3,0,0,1,blind,5,,,P001 P004 P006 P026 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_visual_shopping_r10,D,visual,visual,shopping,10,159,0,0,0,5,5,5,5,2,0,,0,0,0,,5,,,P097 P102 P104 P108 P109,traditional_market traditional_market traditional_market traditional_market shopping_mall
+D_hearing_history_r10,D,hearing,hearing,history,10,160,0,0,0,5,5,5,5,3,0,1,0,0,1,deaf,5,,,P043 P001 P008 P026 P030,guided_heritage_tour history_museum history_museum heritage_site heritage_site
+D_visual_nature_r10,D,visual,visual,nature,10,161,0,0,0,5,4,5,5,3,0,1,1,1,1,blind,5,,B2:1,P077 P052 P051 P058 P092,nature_reserve park_garden park_garden park_garden observation_deck
+D_mobility_nature_r10,D,mobility,mobility,nature,10,162,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P077 P051 P049 P092 P094,nature_reserve park_garden park_garden observation_deck observation_deck
+D_mobility_art_r10,D,mobility,mobility,art,10,163,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P014 P024 P134 P135,art_gallery art_gallery art_gallery live_show live_show
+D_mobility_food_r10,D,mobility,mobility,food,10,164,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P125 P124 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_food_r10,D,visual,visual,food,10,165,0,0,0,5,4,5,5,1,0,,0,0,1,blind,5,,B2:1,P121 P122 P123 P125 P126,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_mobility_history_r07,D,mobility,mobility,history,7,166,0,0,0,5,5,5,5,3,0,2,0,0,1,wheelchair,5,,,P001 P004 P008 P032 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_mobility_nature_r07,D,mobility,mobility,nature,7,167,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P077 P055 P049 P087 P094,nature_reserve park_garden park_garden observation_deck observation_deck
+D_visual_art_r07,D,visual,visual,art,7,168,0,0,0,5,4,5,5,2,0,5,0,0,1,blind,5,,B2:1 B3:1,P014 P016 P023 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_hearing_art_r07,D,hearing,hearing,art,7,169,0,0,0,5,4,5,5,2,0,2,0,0,0,,5,,D4:1,P136 P135 P017 P015 P016,live_show live_show art_gallery art_gallery art_gallery
+D_hearing_nature_r07,D,hearing,hearing,nature,7,170,0,0,0,5,4,5,5,3,0,,0,0,1,deaf,5,,D2:1,P077 P073 P051 P087 P094,nature_reserve nature_reserve park_garden observation_deck observation_deck
+D_visual_shopping_r07,D,visual,visual,shopping,7,171,0,0,0,5,5,5,5,2,0,,0,0,1,blind,5,,,P097 P102 P104 P109 P112,traditional_market traditional_market traditional_market shopping_mall shopping_mall
+D_visual_food_r07,D,visual,visual,food,7,172,0,0,0,5,4,5,4,2,0,,0,0,1,blind,5,,B2:1,P123 P122 P125 P121 P102,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe traditional_market
+D_mobility_food_r07,D,mobility,mobility,food,7,173,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P125 P124 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_hearing_history_r07,D,hearing,hearing,history,7,174,0,0,0,5,4,5,5,3,0,1,0,0,1,deaf,5,,D2:1,P043 P001 P008 P030 P029,guided_heritage_tour history_museum history_museum heritage_site heritage_site
+D_visual_nature_r07,D,visual,visual,nature,7,175,0,0,0,5,4,5,5,3,0,1,1,1,0,,5,,B2:1,P092 P077 P052 P054 P051,observation_deck nature_reserve park_garden park_garden park_garden
+D_mobility_shopping_r07,D,mobility,mobility,shopping,7,176,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P097 P109 P112 P111 P107,traditional_market shopping_mall shopping_mall shopping_mall traditional_market
+D_mobility_art_r07,D,mobility,mobility,art,7,177,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P017 P014 P134 P135,art_gallery art_gallery art_gallery live_show live_show
+D_hearing_shopping_r07,D,hearing,hearing,shopping,7,178,0,0,0,5,4,5,5,2,0,,0,0,1,deaf,5,,D2:1,P111 P113 P110 P099 P097,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_hearing_food_r07,D,hearing,hearing,food,7,179,0,0,0,5,3,5,5,1,0,,1,1,1,deaf,5,,D2:1 D4:1,P121 P122 P123 P125 P124,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_history_r07,D,visual,visual,history,7,180,0,0,0,5,5,5,5,3,0,3,0,0,0,,5,,,P001 P004 P006 P029 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_mobility_food_r03,D,mobility,mobility,food,3,181,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P125 P124 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_hearing_nature_r03,D,hearing,hearing,nature,3,182,0,0,0,5,4,5,5,3,0,,0,0,1,deaf,5,,D2:1,P077 P073 P051 P089 P094,nature_reserve nature_reserve park_garden observation_deck observation_deck
+D_mobility_shopping_r03,D,mobility,mobility,shopping,3,183,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P109 P112 P111 P097 P098,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_mobility_art_r03,D,mobility,mobility,art,3,184,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P015 P024 P134 P136,art_gallery art_gallery art_gallery live_show live_show
+D_visual_history_r03,D,visual,visual,history,3,185,0,0,0,5,5,5,5,3,0,3,0,0,1,blind,5,,,P004 P001 P006 P029 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_visual_art_r03,D,visual,visual,art,3,186,0,0,0,5,4,5,5,2,0,5,0,0,1,blind,5,,B2:1 B3:1,P014 P016 P023 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_visual_food_r03,D,visual,visual,food,3,187,0,0,0,5,4,5,5,1,0,,1,1,1,blind,5,,B2:1,P122 P123 P125 P126 P121,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_shopping_r03,D,visual,visual,shopping,3,188,0,0,0,5,5,5,5,2,0,,0,0,0,,5,,,P097 P102 P104 P109 P112,traditional_market traditional_market traditional_market shopping_mall shopping_mall
+D_hearing_shopping_r03,D,hearing,hearing,shopping,3,189,0,0,0,5,4,5,5,2,0,,0,0,1,deaf,5,,D2:1,P110 P113 P111 P100 P097,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_hearing_art_r03,D,hearing,hearing,art,3,190,0,0,0,5,3,5,5,2,0,2,0,0,0,,5,,D2:1 D4:1,P135 P136 P019 P023 P015,live_show live_show art_gallery art_gallery art_gallery
+D_mobility_nature_r03,D,mobility,mobility,nature,3,191,0,0,0,5,5,5,5,3,0,3,0,0,0,,5,,,P049 P077 P058 P085 P094,park_garden nature_reserve park_garden observation_deck observation_deck
+D_mobility_history_r03,D,mobility,mobility,history,3,192,0,0,0,5,5,5,4,4,0,3,0,0,1,wheelchair,5,,,P001 P008 P032 P037 P097,history_museum history_museum heritage_site guided_heritage_tour traditional_market
+D_hearing_history_r03,D,hearing,hearing,history,3,193,0,0,0,5,4,5,5,3,0,1,0,0,1,deaf,5,,D2:1,P043 P008 P001 P030 P029,guided_heritage_tour history_museum history_museum heritage_site heritage_site
+D_hearing_food_r03,D,hearing,hearing,food,3,194,0,0,0,5,4,5,5,1,0,,0,0,1,deaf,5,,D2:1,P121 P122 P123 P125 P126,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_nature_r03,D,visual,visual,nature,3,195,0,0,0,5,4,5,5,3,0,2,0,0,0,,5,,B3:1,P077 P058 P051 P087 P092,nature_reserve park_garden park_garden observation_deck observation_deck
+D_mobility_food_r02,D,mobility,mobility,food,2,196,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P125 P124 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_hearing_nature_r02,D,hearing,hearing,nature,2,197,0,0,0,5,3,5,5,3,0,,0,0,0,,5,,D2:2,P051 P077 P084 P085 P089,park_garden nature_reserve nature_reserve observation_deck observation_deck
+D_visual_history_r02,D,visual,visual,history,2,198,0,0,0,5,5,5,5,3,0,3,0,0,0,,5,,,P001 P004 P012 P033 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_visual_nature_r02,D,visual,visual,nature,2,199,0,0,0,5,5,5,5,3,0,1,0,0,0,,5,,,P051 P058 P077 P078 P092,park_garden park_garden nature_reserve nature_reserve observation_deck
+D_hearing_shopping_r02,D,hearing,hearing,shopping,2,200,0,0,0,5,3,5,5,1,0,,0,0,1,deaf,5,,D4:2,P111 P110 P113 P109 P112,shopping_mall shopping_mall shopping_mall shopping_mall shopping_mall
+D_mobility_art_r02,D,mobility,mobility,art,2,201,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P017 P015 P134 P135,art_gallery art_gallery art_gallery live_show live_show
+D_hearing_history_r02,D,hearing,hearing,history,2,202,0,0,0,5,4,5,5,2,0,0,0,0,0,,5,,D2:1,P001 P008 P009 P030 P026,history_museum history_museum history_museum heritage_site heritage_site
+D_hearing_art_r02,D,hearing,hearing,art,2,203,0,0,0,5,4,5,5,2,0,2,0,0,1,deaf,5,,D4:1,P135 P136 P013 P017 P015,live_show live_show art_gallery art_gallery art_gallery
+D_mobility_nature_r02,D,mobility,mobility,nature,2,204,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P077 P051 P058 P085 P094,nature_reserve park_garden park_garden observation_deck observation_deck
+D_visual_art_r02,D,visual,visual,art,2,205,0,0,0,5,4,5,5,2,0,5,0,0,0,,5,,B2:1 B3:1,P014 P016 P023 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_mobility_shopping_r02,D,mobility,mobility,shopping,2,206,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P109 P111 P112 P097 P107,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_visual_food_r02,D,visual,visual,food,2,207,0,0,0,5,5,5,3,2,0,,0,0,0,,5,,,P123 P122 P125 P108 P102,restaurant_cafe restaurant_cafe restaurant_cafe traditional_market traditional_market
+D_hearing_food_r02,D,hearing,hearing,food,2,208,0,0,0,5,3,5,5,1,0,,0,0,1,deaf,5,,D2:1 D4:1,P121 P122 P123 P125 P124,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_shopping_r02,D,visual,visual,shopping,2,209,0,0,0,5,5,5,5,2,0,,0,0,1,blind,5,,,P109 P112 P097 P103 P104,shopping_mall shopping_mall traditional_market traditional_market traditional_market
+D_mobility_history_r02,D,mobility,mobility,history,2,210,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P001 P008 P030 P032 P037,history_museum history_museum heritage_site heritage_site guided_heritage_tour
+D_visual_shopping_r17,D,visual,visual,shopping,17,211,0,0,0,5,4,5,5,2,0,,1,1,0,,5,,B2:1,P097 P104 P108 P105 P109,traditional_market traditional_market traditional_market traditional_market shopping_mall
+D_visual_food_r17,D,visual,visual,food,17,212,0,0,0,5,5,5,4,2,0,,0,0,1,blind,5,,,P123 P122 P125 P126 P102,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe traditional_market
+D_visual_art_r17,D,visual,visual,art,17,213,0,0,0,5,3,5,5,2,0,5,0,0,1,blind,5,,B2:2 B3:2,P020 P018 P014 P136 P135,art_gallery art_gallery art_gallery live_show live_show
+D_mobility_shopping_r17,D,mobility,mobility,shopping,17,214,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P109 P112 P111 P097 P107,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_hearing_shopping_r17,D,hearing,hearing,shopping,17,215,0,0,0,5,4,5,5,2,0,,0,0,1,deaf,5,,D2:1,P110 P111 P099 P100 P097,shopping_mall shopping_mall traditional_market traditional_market traditional_market
+D_mobility_art_r17,D,mobility,mobility,art,17,216,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P014 P023 P134 P135,art_gallery art_gallery art_gallery live_show live_show
+D_hearing_food_r17,D,hearing,hearing,food,17,217,0,0,0,5,4,5,5,1,0,,0,0,1,deaf,5,,D2:1,P121 P123 P122 P125 P126,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_history_r17,D,visual,visual,history,17,218,0,0,0,5,5,5,5,3,0,3,0,0,1,blind,5,,,P004 P003 P001 P029 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_hearing_history_r17,D,hearing,hearing,history,17,219,0,0,0,5,4,5,5,3,0,1,0,0,0,,5,,D2:1,P043 P002 P029 P026 P004,guided_heritage_tour history_museum heritage_site heritage_site history_museum
+D_mobility_history_r17,D,mobility,mobility,history,17,220,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P001 P004 P030 P032 P037,history_museum history_museum heritage_site heritage_site guided_heritage_tour
+D_mobility_food_r17,D,mobility,mobility,food,17,221,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P125 P124 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_hearing_nature_r17,D,hearing,hearing,nature,17,222,0,0,0,5,3,5,5,3,0,,0,0,0,,5,,D2:1 D4:1,P073 P077 P058 P059 P094,nature_reserve nature_reserve park_garden park_garden observation_deck
+D_hearing_art_r17,D,hearing,hearing,art,17,223,0,0,0,5,4,5,5,2,0,2,0,0,0,,5,,D4:1,P136 P135 P016 P021 P013,live_show live_show art_gallery art_gallery art_gallery
+D_mobility_nature_r17,D,mobility,mobility,nature,17,224,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P077 P058 P051 P094 P085,nature_reserve park_garden park_garden observation_deck observation_deck
+D_visual_nature_r17,D,visual,visual,nature,17,225,0,0,0,5,4,5,5,3,0,2,1,1,0,,5,,B3:1,P077 P051 P058 P087 P092,nature_reserve park_garden park_garden observation_deck observation_deck
+D_mobility_food_r18,D,mobility,mobility,food,18,226,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P125 P124 P123 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_nature_r18,D,visual,visual,nature,18,227,0,0,0,5,3,5,5,3,0,2,0,0,1,blind,5,,B2:1 B3:1,P092 P077 P058 P052 P087,observation_deck nature_reserve park_garden park_garden observation_deck
+D_visual_art_r18,D,visual,visual,art,18,228,0,0,0,5,4,5,5,2,0,5,0,0,1,blind,5,,B2:1 B3:1,P014 P016 P023 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_hearing_nature_r18,D,hearing,hearing,nature,18,229,0,0,0,5,4,5,5,3,0,,0,0,1,deaf,5,,D2:1,P077 P073 P051 P094 P089,nature_reserve nature_reserve park_garden observation_deck observation_deck
+D_hearing_history_r18,D,hearing,hearing,history,18,230,0,0,0,5,5,5,5,2,0,0,0,0,1,deaf,5,,,P001 P008 P033 P035 P034,history_museum history_museum heritage_site heritage_site heritage_site
+D_visual_shopping_r18,D,visual,visual,shopping,18,231,0,0,0,5,5,5,5,2,0,,0,0,1,blind,5,,,P109 P112 P097 P102 P108,shopping_mall shopping_mall traditional_market traditional_market traditional_market
+D_visual_history_r18,D,visual,visual,history,18,232,0,0,0,5,5,5,5,3,0,3,0,0,1,blind,5,,,P001 P004 P003 P033 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_mobility_shopping_r18,D,mobility,mobility,shopping,18,233,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P109 P112 P111 P097 P098,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_mobility_nature_r18,D,mobility,mobility,nature,18,234,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P077 P049 P059 P094 P089,nature_reserve park_garden park_garden observation_deck observation_deck
+D_mobility_history_r18,D,mobility,mobility,history,18,235,0,0,0,5,5,5,5,3,0,2,0,0,1,wheelchair,5,,,P001 P004 P032 P037 P008,history_museum history_museum heritage_site guided_heritage_tour history_museum
+D_hearing_art_r18,D,hearing,hearing,art,18,236,0,0,0,5,4,5,5,2,0,2,0,0,1,deaf,5,,D4:1,P136 P135 P017 P016 P013,live_show live_show art_gallery art_gallery art_gallery
+D_hearing_shopping_r18,D,hearing,hearing,shopping,18,237,0,0,0,5,4,5,5,2,0,,1,1,1,deaf,5,,D4:1,P113 P111 P110 P109 P108,shopping_mall shopping_mall shopping_mall shopping_mall traditional_market
+D_hearing_food_r18,D,hearing,hearing,food,18,238,0,0,0,5,4,5,5,1,0,,0,0,1,deaf,5,,D2:1,P121 P122 P123 P125 P126,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_food_r18,D,visual,visual,food,18,239,0,0,0,5,4,5,4,2,0,,0,0,1,blind,5,,B2:1,P121 P122 P123 P125 P102,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe traditional_market
+D_mobility_art_r18,D,mobility,mobility,art,18,240,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P017 P023 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_hearing_nature_r01,D,hearing,hearing,nature,1,241,0,0,0,5,4,5,5,4,0,,0,0,0,,5,,D2:1,P050 P073 P062 P094 P085,park_garden nature_reserve desert_experience observation_deck observation_deck
+D_mobility_shopping_r01,D,mobility,mobility,shopping,1,242,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P109 P112 P111 P097 P107,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_mobility_history_r01,D,mobility,mobility,history,1,243,0,0,0,5,5,5,5,3,0,3,0,0,0,,5,,,P001 P004 P032 P030 P037,history_museum history_museum heritage_site heritage_site guided_heritage_tour
+D_visual_nature_r01,D,visual,visual,nature,1,244,0,0,0,5,4,5,5,3,0,2,1,1,0,,5,,B3:1,P077 P050 P051 P092 P087,nature_reserve park_garden park_garden observation_deck observation_deck
+D_mobility_food_r01,D,mobility,mobility,food,1,245,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P125 P124 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_hearing_shopping_r01,D,hearing,hearing,shopping,1,246,0,0,0,5,4,5,5,2,0,,0,0,1,deaf,5,,D2:1,P110 P111 P113 P097 P100,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_visual_shopping_r01,D,visual,visual,shopping,1,247,0,0,0,5,5,5,5,2,0,,0,0,1,blind,5,,,P102 P097 P104 P109 P112,traditional_market traditional_market traditional_market shopping_mall shopping_mall
+D_mobility_art_r01,D,mobility,mobility,art,1,248,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P015 P134 P135 P136,art_gallery art_gallery live_show live_show live_show
+D_visual_food_r01,D,visual,visual,food,1,249,0,0,0,5,4,5,4,2,0,,0,0,1,blind,5,,B2:1,P123 P122 P125 P121 P102,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe traditional_market
+D_hearing_art_r01,D,hearing,hearing,art,1,250,0,0,0,5,4,5,5,2,0,2,0,0,0,,5,,D4:1,P013 P015 P021 P136 P135,art_gallery art_gallery art_gallery live_show live_show
+D_visual_art_r01,D,visual,visual,art,1,251,0,0,0,5,4,5,5,2,0,5,0,0,0,,5,,B2:1 B3:1,P014 P016 P023 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_hearing_history_r01,D,hearing,hearing,history,1,252,0,0,0,5,5,5,5,3,0,1,0,0,1,deaf,5,,,P043 P001 P011 P033 P030,guided_heritage_tour history_museum history_museum heritage_site heritage_site
+D_hearing_food_r01,D,hearing,hearing,food,1,253,0,0,0,5,4,5,5,1,0,,0,0,1,deaf,5,,D2:1,P121 P122 P123 P125 P126,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_history_r01,D,visual,visual,history,1,254,0,0,0,5,5,5,5,3,0,2,0,0,1,blind,5,,,P001 P004 P033 P026 P037,history_museum history_museum heritage_site heritage_site guided_heritage_tour
+D_mobility_nature_r01,D,mobility,mobility,nature,1,255,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P051 P077 P058 P085 P094,park_garden nature_reserve park_garden observation_deck observation_deck
+D_hearing_nature_r08,D,hearing,hearing,nature,8,256,0,0,0,5,3,5,5,3,0,,0,0,1,deaf,5,,D2:1 D4:1,P077 P074 P059 P051 P094,nature_reserve nature_reserve park_garden park_garden observation_deck
+D_visual_art_r08,D,visual,visual,art,8,257,0,0,0,5,4,5,5,2,0,5,0,0,0,,5,,B2:1 B3:1,P023 P016 P014 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_hearing_art_r08,D,hearing,hearing,art,8,258,0,0,0,5,4,5,5,2,0,2,0,0,1,deaf,5,,D4:1,P135 P136 P015 P017 P021,live_show live_show art_gallery art_gallery art_gallery
+D_hearing_shopping_r08,D,hearing,hearing,shopping,8,259,0,0,0,5,4,5,5,2,0,,0,0,1,deaf,5,,D2:1,P110 P111 P113 P097 P098,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_mobility_shopping_r08,D,mobility,mobility,shopping,8,260,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P109 P112 P111 P097 P098,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_visual_history_r08,D,visual,visual,history,8,261,0,0,0,5,5,5,5,3,0,3,0,0,0,,5,,,P001 P004 P012 P029 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_hearing_food_r08,D,hearing,hearing,food,8,262,0,0,0,5,4,5,5,1,0,,0,0,1,deaf,5,,D2:1,P121 P122 P123 P125 P126,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_shopping_r08,D,visual,visual,shopping,8,263,0,0,0,5,5,5,5,2,0,,0,0,0,,5,,,P097 P108 P101 P109 P110,traditional_market traditional_market traditional_market shopping_mall shopping_mall
+D_mobility_nature_r08,D,mobility,mobility,nature,8,264,0,0,0,5,5,5,5,3,0,4,0,0,1,wheelchair,5,,,P077 P074 P051 P059 P094,nature_reserve nature_reserve park_garden park_garden observation_deck
+D_hearing_history_r08,D,hearing,hearing,history,8,265,0,0,0,5,4,5,5,3,0,1,0,0,0,,5,,D2:1,P043 P008 P030 P029 P002,guided_heritage_tour history_museum heritage_site heritage_site history_museum
+D_mobility_food_r08,D,mobility,mobility,food,8,266,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P125 P128 P124,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_nature_r08,D,visual,visual,nature,8,267,0,0,0,5,3,5,5,3,0,1,1,1,0,,5,,B2:2,P077 P052 P051 P074 P092,nature_reserve park_garden park_garden nature_reserve observation_deck
+D_mobility_history_r08,D,mobility,mobility,history,8,268,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P001 P008 P030 P032 P037,history_museum history_museum heritage_site heritage_site guided_heritage_tour
+D_mobility_art_r08,D,mobility,mobility,art,8,269,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P023 P134 P135 P136,art_gallery art_gallery live_show live_show live_show
+D_visual_food_r08,D,visual,visual,food,8,270,0,0,0,5,4,5,4,2,0,,0,0,1,blind,5,,B2:1,P121 P122 P125 P123 P102,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe traditional_market
+D_hearing_nature_r15,D,hearing,hearing,nature,15,271,0,0,0,5,3,5,5,3,0,,0,0,0,,5,,D2:1 D3:1,P077 P051 P059 P092 P089,nature_reserve park_garden park_garden observation_deck observation_deck
+D_visual_art_r15,D,visual,visual,art,15,272,0,0,0,5,4,5,5,2,0,5,0,0,0,,5,,B2:1 B3:1,P014 P016 P023 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_mobility_art_r15,D,mobility,mobility,art,15,273,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P014 P013 P015 P134 P135,art_gallery art_gallery art_gallery live_show live_show
+D_mobility_nature_r15,D,mobility,mobility,nature,15,274,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P077 P058 P059 P085 P092,nature_reserve park_garden park_garden observation_deck observation_deck
+D_mobility_history_r15,D,mobility,mobility,history,15,275,0,0,0,5,5,5,5,3,0,3,0,0,1,wheelchair,5,,,P001 P004 P032 P030 P037,history_museum history_museum heritage_site heritage_site guided_heritage_tour
+D_visual_food_r15,D,visual,visual,food,15,276,0,0,0,5,4,5,4,2,0,,0,0,0,,5,,B2:1,P123 P122 P125 P102 P121,restaurant_cafe restaurant_cafe restaurant_cafe traditional_market restaurant_cafe
+D_hearing_shopping_r15,D,hearing,hearing,shopping,15,277,0,0,0,5,2,5,5,2,0,,0,0,1,deaf,5,,D2:1 D4:2,P110 P109 P112 P097 P100,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_visual_history_r15,D,visual,visual,history,15,278,0,0,0,5,5,5,5,3,0,2,0,0,1,blind,5,,,P004 P001 P033 P037 P026,history_museum history_museum heritage_site guided_heritage_tour heritage_site
+D_mobility_shopping_r15,D,mobility,mobility,shopping,15,279,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P109 P112 P111 P097 P098,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_visual_shopping_r15,D,visual,visual,shopping,15,280,0,0,0,5,5,5,5,2,0,,0,0,0,,5,,,P097 P102 P101 P104 P109,traditional_market traditional_market traditional_market traditional_market shopping_mall
+D_hearing_history_r15,D,hearing,hearing,history,15,281,0,0,0,5,4,5,5,2,0,0,0,0,1,deaf,5,,D2:1,P001 P004 P026 P025 P029,history_museum history_museum heritage_site heritage_site heritage_site
+D_hearing_food_r15,D,hearing,hearing,food,15,282,0,0,0,5,3,5,5,1,0,,1,1,1,deaf,5,,D2:1 D4:1,P121 P122 P123 P125 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_nature_r15,D,visual,visual,nature,15,283,0,0,0,5,3,5,5,3,0,2,0,0,0,,5,,B2:1 B3:1,P052 P058 P077 P092 P087,park_garden park_garden nature_reserve observation_deck observation_deck
+D_hearing_art_r15,D,hearing,hearing,art,15,284,0,0,0,5,4,5,5,2,0,2,0,0,1,deaf,5,,D4:1,P016 P017 P021 P136 P135,art_gallery art_gallery art_gallery live_show live_show
+D_mobility_food_r15,D,mobility,mobility,food,15,285,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P125 P128 P124,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_history_r06,D,visual,visual,history,6,286,0,0,0,5,5,5,5,3,0,3,0,0,1,blind,5,,,P001 P004 P006 P029 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_hearing_food_r06,D,hearing,hearing,food,6,287,0,0,0,5,4,5,5,1,0,,0,0,1,deaf,5,,D2:1,P122 P123 P125 P126 P121,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_hearing_shopping_r06,D,hearing,hearing,shopping,6,288,0,0,0,5,4,5,5,2,0,,0,0,1,deaf,5,,D4:1,P113 P112 P111 P099 P108,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_mobility_food_r06,D,mobility,mobility,food,6,289,0,0,0,5,4,5,5,1,0,,1,1,1,wheelchair,5,,W8:1,P121 P123 P125 P124 P128,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_visual_shopping_r06,D,visual,visual,shopping,6,290,0,0,0,5,5,5,5,2,0,,0,0,0,,5,,,P097 P102 P108 P109 P112,traditional_market traditional_market traditional_market shopping_mall shopping_mall
+D_mobility_art_r06,D,mobility,mobility,art,6,291,0,0,0,5,5,5,5,2,0,,0,0,1,wheelchair,5,,,P013 P014 P023 P135 P136,art_gallery art_gallery art_gallery live_show live_show
+D_hearing_art_r06,D,hearing,hearing,art,6,292,0,0,0,5,4,5,5,2,0,2,0,0,0,,5,,D4:1,P135 P136 P013 P017 P021,live_show live_show art_gallery art_gallery art_gallery
+D_mobility_history_r06,D,mobility,mobility,history,6,293,0,0,0,5,5,5,5,3,0,2,0,0,0,,5,,,P001 P008 P004 P032 P037,history_museum history_museum history_museum heritage_site guided_heritage_tour
+D_visual_nature_r06,D,visual,visual,nature,6,294,0,0,0,5,4,5,5,3,0,1,0,0,0,,5,,B2:1,P077 P051 P052 P058 P092,nature_reserve park_garden park_garden park_garden observation_deck
+D_hearing_history_r06,D,hearing,hearing,history,6,295,0,0,0,5,4,5,5,3,0,1,0,0,0,,5,,D2:1,P001 P009 P026 P033 P043,history_museum history_museum heritage_site heritage_site guided_heritage_tour
+D_mobility_nature_r06,D,mobility,mobility,nature,6,296,0,0,0,5,5,5,5,3,0,3,0,0,0,,5,,,P077 P051 P058 P094 P085,nature_reserve park_garden park_garden observation_deck observation_deck
+D_visual_food_r06,D,visual,visual,food,6,297,0,0,0,5,5,5,5,1,0,,0,0,1,blind,5,,,P123 P122 P125 P126 P127,restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe restaurant_cafe
+D_mobility_shopping_r06,D,mobility,mobility,shopping,6,298,0,0,0,5,5,5,5,2,0,2,0,0,1,wheelchair,5,,,P109 P112 P111 P097 P098,shopping_mall shopping_mall shopping_mall traditional_market traditional_market
+D_hearing_nature_r06,D,hearing,hearing,nature,6,299,0,0,0,5,4,5,5,3,0,,0,0,1,deaf,5,,D2:1,P077 P084 P059 P051 P094,nature_reserve nature_reserve park_garden park_garden observation_deck
+D_visual_art_r06,D,visual,visual,art,6,300,0,0,0,5,4,5,5,2,0,5,0,0,1,blind,5,,B2:1 B3:1,P135 P014 P016 P023 P018,live_show art_gallery art_gallery art_gallery art_gallery
