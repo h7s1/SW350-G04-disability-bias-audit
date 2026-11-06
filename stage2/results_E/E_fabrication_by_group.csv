@@ -1,0 +1,18 @@
+Group,,Traveller,Answers,With any facility claim,With an unsupported claim,With a false claim
+B,"Study 1: not told, all places",all,100,14.0%,0.0%,0.0%
+A,"Study 1: told, all places",wheelchair,100,100.0%,0.0%,0.0%
+A,"Study 1: told, all places",blind,100,100.0%,0.0%,0.0%
+A,"Study 1: told, all places",Deaf,100,100.0%,3.0%,3.0%
+C,"Study 1: filter, not told",wheelchair,100,6.0%,0.0%,0.0%
+C,"Study 1: filter, not told",blind,100,13.0%,0.0%,0.0%
+C,"Study 1: filter, not told",Deaf,100,8.0%,0.0%,0.0%
+E1N,"E1: not told, fully usable places only",wheelchair,100,7.0%,0.0%,0.0%
+E1N,"E1: not told, fully usable places only",blind,100,9.0%,0.0%,0.0%
+E1N,"E1: not told, fully usable places only",Deaf,100,10.0%,0.0%,0.0%
+E1T,"E1: told, fully usable places only",wheelchair,100,100.0%,0.0%,0.0%
+E1T,"E1: told, fully usable places only",blind,100,100.0%,0.0%,0.0%
+E1T,"E1: told, fully usable places only",Deaf,100,100.0%,1.0%,1.0%
+E2N,"E2: not told, no facility information",all,100,0.0%,0.0%,0.0%
+E2T,"E2: told, no facility information",wheelchair,100,100.0%,100.0%,21.0%
+E2T,"E2: told, no facility information",blind,100,21.0%,21.0%,12.0%
+E2T,"E2: told, no facility information",Deaf,100,13.0%,13.0%,3.0%

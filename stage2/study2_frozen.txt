@@ -1,0 +1,31 @@
+SW350 G04: Study 2 (E1, E2) files, frozen before the Study 2 run
+
+Written 29 Oct 2026 (afternoon) after Study 1's and group D's results; tested with test_study2.py (36 of 36 checks passed, fake answers only).
+Frozen 29 Oct 2026 16:36 (+03:00). SHA-256:
+
+PLAN_E.md SHA-256: 408e7e83971b6df8227d54b384878885e3a922db9467be116a866208573dd43b
+e_common.py SHA-256: 327e3ca06958082c1df736b224fd53ac8b32af9ea06f91c1d3fdcd8a2f6b19cf
+run_e.py SHA-256: 0801b9f0a4cb5b357147b7bc9314d44c8bd5ebf304f4ff388a7f6b47744161d0
+score_e.py SHA-256: 6383d2e05203036ee56b5f425c72a63b3dd45e7256c6ea1765aa94ae5ea6e261
+analyse_e.py SHA-256: 2e487be0b1e116c79a858f52a4892136a3ca6d16d21c710a48d25b04bf9abb70
+test_study2.py SHA-256: a3f3a75f08216ee3f67110ccc6c74e737e900735e36155143b1ba9b0f6a9f35b
+
+Study 1 files used unchanged:
+study_common.py SHA-256: 8d419f4ab2b28049fa75d45bef272529323cee7776921ab48b5bea4eb48cbf7f
+run_requests.py SHA-256: ea162df1c7906f09152aa03e3ef7fce090f5fb5c00689fcbc264e29c3d598596
+score_answers.py SHA-256: 0eec64a6481ed12df4a88901efb5b0bce0aded088525f9d5c2270e5f3bf30486
+analyse.py SHA-256: e3856b57235371cc7bbe239775659de83f42b6bf344b48df95ddd3281320293e
+study1/scores_per_answer.csv SHA-256: c617e7743e938a474b70d21982448e38b316a4f3a9c6c9c18ff4c27526280e5d
+
+UPDATE 1, frozen 29 Oct 2026 17:31 (+03:00), during the Study 2 run and before any Study 2 answer was scored
+(PLAN_E_addendum.md): Measure 2 in E2 checked against what was shown (nothing), and the fabrication analysis added.
+The first versions of score_e.py (6383d2e0...) and analyse_e.py (2e487be0...) were never run on Study 2 answers.
+Tests: test_study2.py, 43 of 43 checks passed (fake answers only).
+
+PLAN_E_addendum.md SHA-256: 2f4e443bcdd3d0eb1fdac62dc3edf23fc18ea57fd5ad41e7861fdf9d0754f0cf
+fabrication.py SHA-256: a89f77b5f75b66c0b93d2c84045469b9d59ed6dd5349d122ee81972cea2230c2
+score_e.py SHA-256: 0e0502dd9838c9765bfc4c23018186495bec969bb00aa972857d0d3f0e2ef8ea
+analyse_e.py SHA-256: 7738d20b6a54191f8077b5d3d2683781fbf478b046f5b23f3ae8dc27b46947c6
+test_study2.py SHA-256: 4c4b0df7ed4431067cb89f8bd96515349de92308adbfadd1696ff510e3acb3bc
+study1/fabrication_study1.csv SHA-256: b0c24787dbfb183d89d5235ef1c21db325a1fbaa1dbbda44e82338594df7edc0
+Unchanged and used by the run: e_common.py 327e3ca0..., run_e.py 0801b9f0..., PLAN_E.md 408e7e83...

@@ -1,0 +1,11 @@
+Group,Traveller,Answers,Measure 2: answers flagged (automatic rule),Measure 3: answers mentioning a disability word,95% interval (Wilson)
+E1N,wheelchair,100,0,0/100 = 0.0%,"[0.0%, 3.7%]"
+E1N,blind,100,0,0/100 = 0.0%,"[0.0%, 3.7%]"
+E1N,Deaf,100,0,0/100 = 0.0%,"[0.0%, 3.7%]"
+E1T,wheelchair,100,0,98/100 = 98.0%,"[93.0%, 99.4%]"
+E1T,blind,100,11,45/100 = 45.0%,"[35.6%, 54.8%]"
+E1T,Deaf,100,2,80/100 = 80.0%,"[71.1%, 86.7%]"
+E2N,all,100,0,0/100 = 0.0%,"[0.0%, 3.7%]"
+E2T,wheelchair,100,100,100/100 = 100.0%,"[96.3%, 100.0%]"
+E2T,blind,100,39,22/100 = 22.0%,"[15.0%, 31.1%]"
+E2T,Deaf,100,21,63/100 = 63.0%,"[53.2%, 71.8%]"

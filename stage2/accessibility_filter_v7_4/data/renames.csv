@@ -1,0 +1,19 @@
+﻿place_id,old_name,new_name,version,reason
+P019,Atelier Al Nakheel,Atelier Al Ishraq,v7.3,name contained a real Riyadh area
+P037,Footsteps of Turaif Walking Tour,Footsteps of the Elders Walking Tour,v7.3,name contained a real Riyadh area
+P038,Murabba Palace Lanes Tour,Palace Lanes Heritage Tour,v7.3,name contained a real Riyadh area
+P039,Batha Old Trade Route Tour,Old Trade Route Tour,v7.3,name contained a real Riyadh area
+P042,Whispers of Old Batha Tour,Whispers of the Old Quarter Tour,v7.3,name contained a real Riyadh area
+P043,Wadi Hanifa Heritage Trail Tour,Valley Heritage Trail Tour,v7.3,name contained a real Riyadh area
+P034,Hisn Al Dira Fort,Hisn Al Turab Fort,v7.4,Al Dira: very likely the name of old Riyadh's historic centre (renamed to be safe)
+P061,Red Dunes Camp,Sand Valley Camp,v7.4,the Red Sand Dunes are a well-known Riyadh attraction
+P062,Edge of Tuwaiq Dune Safari,Rocky Rim Dune Safari,v7.4,Tuwaiq escarpment / Edge of the World
+P065,Nafud Falcon Camp,Falcon Wing Desert Camp,v7.4,the Nafud is a real desert
+P073,Wadi Namar Reserve,Wadi Al Qata Reserve,v7.4,Wadi Namar: real park and dam in Riyadh
+P074,Tuwaiq Escarpment Reserve,Hafat Al Sakhr Reserve,v7.4,Tuwaiq escarpment
+P075,Raudat Al Khafs Reserve,Raudat Al Zuhur Reserve,v7.4,"Rawdat Al Khafs: real, well-known place"
+P076,Wadi Laban Nature Reserve,Wadi Al Uqab Nature Reserve,v7.4,Wadi Laban: real valley in Riyadh
+P077,Shaib Al Ghadir Reserve,Shaib Al Sail Reserve,v7.4,Al Ghadir: real Riyadh district
+P080,Jabal Al Hamra Reserve,Jabal Al Sawan Reserve,v7.4,Al Hamra: real Riyadh district
+P082,Wadi Sulay Nature Reserve,Wadi Al Dhib Nature Reserve,v7.4,Wadi Al Sulay: believed to be a real valley in Riyadh (renamed to be safe)
+P112,Mujamma Al Ghadir Mall,Mujamma Al Yaqut Mall,v7.4,Al Ghadir: real Riyadh district

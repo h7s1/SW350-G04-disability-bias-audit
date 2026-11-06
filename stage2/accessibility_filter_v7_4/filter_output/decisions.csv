@@ -1,0 +1,433 @@
+﻿place_id,name,category,disability,outcome,excluded_by,caveats,W1,W2,W3,W4,W5,W6,W7,W8,B1,B2,B3,D1,D2,D3,D4
+P001,Dar Al Wasm Museum,history_museum,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P002,Bayt Al Rawi Museum,history_museum,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P003,Khazna Al Zaman Museum,history_museum,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P004,Mataf Al Ajdad Museum,history_museum,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P005,Dar Al Sijill Museum,history_museum,mobility,ELIGIBLE_WITH_CAVEATS,,W8,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,FAIL,,,,,,,
+P006,Bayt Al Qawafil Museum,history_museum,mobility,EXCLUDED,W2,W7,PASS,FAIL,PASS,PASS,PASS,NOT_APPLICABLE,FAIL,PASS,,,,,,,
+P007,Matherat Najd Museum,history_museum,mobility,EXCLUDED,W5,W7,PASS,PASS,PASS,PASS,FAIL,NOT_APPLICABLE,FAIL,PASS,,,,,,,
+P008,Dar Al Hikaya Museum,history_museum,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P009,Rawaq Al Tarikh Museum,history_museum,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P010,Khizanat Al Rimal Museum,history_museum,mobility,ELIGIBLE_WITH_CAVEATS,,W7,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,FAIL,PASS,,,,,,,
+P011,Bayt Al Dhakira Museum,history_museum,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P012,Majlis Al Athar Museum,history_museum,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P013,Ruwaq Al Alwan Gallery,art_gallery,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P014,Dar Al Farsha Gallery,art_gallery,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P015,Mashrabiya Art House,art_gallery,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P016,Sada Al Khat Gallery,art_gallery,mobility,EXCLUDED,W3,W7,PASS,PASS,FAIL,PASS,PASS,NOT_APPLICABLE,FAIL,PASS,,,,,,,
+P017,Lawha Najdiyya Gallery,art_gallery,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P018,Bayt Al Ibda Gallery,art_gallery,mobility,ELIGIBLE_WITH_CAVEATS,,W8,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,FAIL,,,,,,,
+P019,Atelier Al Ishraq,art_gallery,mobility,ELIGIBLE_WITH_CAVEATS,,W7,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,FAIL,PASS,,,,,,,
+P020,Manzil Al Rassam Gallery,art_gallery,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P021,Khayal Art Space,art_gallery,mobility,EXCLUDED,W2,,PASS,FAIL,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P022,Dar Al Lawn Gallery,art_gallery,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P023,Sahat Al Fann Gallery,art_gallery,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P024,Ruya Contemporary Gallery,art_gallery,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P025,Qasr Al Sabr Fortress,heritage_site,mobility,EXCLUDED,W2,W7,PASS,FAIL,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P026,Hayy Al Tin Old Quarter,heritage_site,mobility,EXCLUDED,W2,W7,PASS,FAIL,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P027,Burj Al Hajar Fort,heritage_site,mobility,EXCLUDED,W1,,FAIL,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P028,Zuqaq Al Nakhla Old Quarter,heritage_site,mobility,ELIGIBLE_WITH_CAVEATS,,W7,PASS,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P029,Qasr Al Samar Palace,heritage_site,mobility,EXCLUDED,W1,,FAIL,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P030,Hara Al Ramth Old Quarter,heritage_site,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P031,Qalat Al Wadi Fort,heritage_site,mobility,EXCLUDED,W1,W7,FAIL,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P032,Sur Al Madina Wall Quarter,heritage_site,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P033,Qasr Al Mazraa Palace,heritage_site,mobility,ELIGIBLE_WITH_CAVEATS,,W7,PASS,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P034,Hisn Al Turab Fort,heritage_site,mobility,EXCLUDED,W1,,FAIL,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P035,Darb Al Tujjar Old Quarter,heritage_site,mobility,EXCLUDED,W1,W7,FAIL,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P036,Qasr Al Shuyukh Palace,heritage_site,mobility,EXCLUDED,W1,,FAIL,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P037,Footsteps of the Elders Walking Tour,guided_heritage_tour,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P038,Palace Lanes Heritage Tour,guided_heritage_tour,mobility,EXCLUDED,W1,,FAIL,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P039,Old Trade Route Tour,guided_heritage_tour,mobility,EXCLUDED,W1,,FAIL,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P040,Stories of the Mudbrick Wall Tour,guided_heritage_tour,mobility,EXCLUDED,W6,,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,PASS,,,,,,,
+P041,Najdi Doors and Courtyards Tour,guided_heritage_tour,mobility,ELIGIBLE_WITH_CAVEATS,,W8,PASS,PASS,PASS,PASS,PASS,PASS,PASS,FAIL,,,,,,,
+P042,Whispers of the Old Quarter Tour,guided_heritage_tour,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P043,Valley Heritage Trail Tour,guided_heritage_tour,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P044,Caravan Memories Walking Tour,guided_heritage_tour,mobility,EXCLUDED,W6,W7,PASS,PASS,PASS,PASS,PASS,FAIL,FAIL,PASS,,,,,,,
+P045,Lamps of the Old City Tour,guided_heritage_tour,mobility,EXCLUDED,W1,W7,FAIL,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P046,Founders Path Heritage Tour,guided_heritage_tour,mobility,ELIGIBLE_WITH_CAVEATS,,W7,PASS,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P047,Keepers of the Old Gate Tour,guided_heritage_tour,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P048,Sandstone Quarter Evening Tour,guided_heritage_tour,mobility,EXCLUDED,W6,W7,PASS,PASS,PASS,PASS,PASS,FAIL,FAIL,PASS,,,,,,,
+P049,Palm Court Gardens,park_garden,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P050,Wadi Breeze Park,park_garden,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P051,Olive Walk Garden,park_garden,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P052,Jasmine Terrace Park,park_garden,mobility,ELIGIBLE_WITH_CAVEATS,,W7,PASS,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P053,Acacia Meadow Park,park_garden,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P054,Sidr Tree Gardens,park_garden,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P055,Fountain Lawn Park,park_garden,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P056,Date Grove Promenade,park_garden,mobility,ELIGIBLE_WITH_CAVEATS,,W7,PASS,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P057,Rose Circle Garden,park_garden,mobility,EXCLUDED,W1,W7,FAIL,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P058,Palm Ridge Botanical Garden,park_garden,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P059,Lakeside Pines Park,park_garden,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P060,Green Crescent Park,park_garden,mobility,EXCLUDED,W1,,FAIL,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P061,Sand Valley Camp,desert_experience,mobility,EXCLUDED,W1,,FAIL,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P062,Rocky Rim Dune Safari,desert_experience,mobility,EXCLUDED,W6,W7,PASS,PASS,PASS,PASS,PASS,FAIL,FAIL,PASS,,,,,,,
+P063,Starlit Sands Camp,desert_experience,mobility,ELIGIBLE_WITH_CAVEATS,,W8,PASS,PASS,PASS,PASS,PASS,PASS,PASS,FAIL,,,,,,,
+P064,Sunset Ridge Dune Drive,desert_experience,mobility,EXCLUDED,W1,,FAIL,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P065,Falcon Wing Desert Camp,desert_experience,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P066,Golden Hour Sand Trek,desert_experience,mobility,EXCLUDED,W6,W7,PASS,PASS,PASS,PASS,PASS,FAIL,FAIL,PASS,,,,,,,
+P067,Bedouin Fire Camp,desert_experience,mobility,EXCLUDED,W1,W7,FAIL,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P068,Silent Dunes Overnight Camp,desert_experience,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P069,Camel Trail Dune Camp,desert_experience,mobility,ELIGIBLE_WITH_CAVEATS,,W8,PASS,PASS,PASS,PASS,PASS,PASS,PASS,FAIL,,,,,,,
+P070,Oryx Plains Desert Camp,desert_experience,mobility,EXCLUDED,W6,W7,PASS,PASS,PASS,PASS,PASS,FAIL,FAIL,PASS,,,,,,,
+P071,Moonrise Sand Sea Camp,desert_experience,mobility,EXCLUDED,W6,W7,PASS,PASS,PASS,PASS,PASS,FAIL,FAIL,PASS,,,,,,,
+P072,Dune Crest Quad Expedition,desert_experience,mobility,EXCLUDED,W6,,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,PASS,,,,,,,
+P073,Wadi Al Qata Reserve,nature_reserve,mobility,EXCLUDED,W1,,FAIL,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P074,Hafat Al Sakhr Reserve,nature_reserve,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P075,Raudat Al Zuhur Reserve,nature_reserve,mobility,EXCLUDED,W1,W7,FAIL,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P076,Wadi Al Uqab Nature Reserve,nature_reserve,mobility,EXCLUDED,W1,W7,FAIL,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P077,Shaib Al Sail Reserve,nature_reserve,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P078,Umm Sidr Nature Reserve,nature_reserve,mobility,ELIGIBLE_WITH_CAVEATS,,W7,PASS,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P079,Wadi Al Ghaf Trails,nature_reserve,mobility,ELIGIBLE_WITH_CAVEATS,,W7,PASS,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P080,Jabal Al Sawan Reserve,nature_reserve,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P081,Raudat Al Arfaj Reserve,nature_reserve,mobility,EXCLUDED,W1,W7,FAIL,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P082,Wadi Al Dhib Nature Reserve,nature_reserve,mobility,EXCLUDED,W1,,FAIL,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P083,Shaqq Al Talh Reserve,nature_reserve,mobility,EXCLUDED,W1,W7,FAIL,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P084,Al Hadba Plateau Reserve,nature_reserve,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P085,Burj Al Ufuq Deck,observation_deck,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P086,Al Qimma Tower Deck,observation_deck,mobility,ELIGIBLE_WITH_CAVEATS,,W8,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,FAIL,,,,,,,
+P087,Minarat Al Nujum Deck,observation_deck,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P088,Sama Al Riyadh Lookout,observation_deck,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P089,Burj Al Rih Observation Deck,observation_deck,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P090,Nafitha Al Ghuyum Deck,observation_deck,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P091,Qimat Al Mashhad Tower,observation_deck,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P092,Al Rafraf Skyview Deck,observation_deck,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P093,Manar Al Madina Deck,observation_deck,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P094,Burj Al Ghurub Deck,observation_deck,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P095,Ufuq Najd Lookout,observation_deck,mobility,ELIGIBLE_WITH_CAVEATS,,W8,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,FAIL,,,,,,,
+P096,Sahat Al Sama Deck,observation_deck,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P097,Souq Al Nahhasin,traditional_market,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P098,Souq Al Khayyatin,traditional_market,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P099,Souq Al Ghazl,traditional_market,mobility,EXCLUDED,W2,,PASS,FAIL,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P100,Souq Al Mishkhab,traditional_market,mobility,EXCLUDED,W1,,FAIL,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P101,Souq Al Dallalin,traditional_market,mobility,ELIGIBLE_WITH_CAVEATS,,W8,PASS,PASS,PASS,PASS,PASS,PASS,PASS,FAIL,,,,,,,
+P102,Souq Al Samn,traditional_market,mobility,EXCLUDED,W2,W7,PASS,FAIL,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P103,Souq Al Hinna,traditional_market,mobility,EXCLUDED,W2,,PASS,FAIL,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P104,Souq Al Zarabil,traditional_market,mobility,ELIGIBLE_WITH_CAVEATS,,W7,PASS,PASS,PASS,PASS,PASS,PASS,FAIL,PASS,,,,,,,
+P105,Souq Al Bukhoor,traditional_market,mobility,EXCLUDED,W1,,FAIL,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P106,Souq Al Sagha,traditional_market,mobility,EXCLUDED,W6,W7,PASS,PASS,PASS,PASS,PASS,FAIL,FAIL,PASS,,,,,,,
+P107,Souq Al Kutub,traditional_market,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P108,Souq Al Tamr,traditional_market,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,
+P109,Bawwabat Al Shams Mall,shopping_mall,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P110,Marsa Al Najma Mall,shopping_mall,mobility,ELIGIBLE_WITH_CAVEATS,,W8,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,FAIL,,,,,,,
+P111,Riwaq Al Hadath Mall,shopping_mall,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P112,Mujamma Al Yaqut Mall,shopping_mall,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P113,Sahat Al Tijara Mall,shopping_mall,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P114,Ufuq Al Medina Mall,shopping_mall,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P115,Qaryat Al Dhiya Mall,shopping_mall,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P116,Mujamma Al Fajr Mall,shopping_mall,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P117,Mawqif Al Tuyur Mall,shopping_mall,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P118,Bawabat Al Rimal Mall,shopping_mall,mobility,ELIGIBLE_WITH_CAVEATS,,W8,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,FAIL,,,,,,,
+P119,Mujamma Al Ward Mall,shopping_mall,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P120,Sahat Al Qamar Mall,shopping_mall,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,PASS,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P121,Matbakh Al Jidd Restaurant,restaurant_cafe,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P122,Mandi House Al Ghurub,restaurant_cafe,mobility,EXCLUDED,W2,,PASS,FAIL,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P123,Bayt Al Qahwa Cafe,restaurant_cafe,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P124,Tannour Al Hara Restaurant,restaurant_cafe,mobility,ELIGIBLE_WITH_CAVEATS,,W8,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,FAIL,,,,,,,
+P125,Saj and Embers Restaurant,restaurant_cafe,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P126,Kabsa Courtyard Restaurant,restaurant_cafe,mobility,EXCLUDED,W2,,PASS,FAIL,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P127,Dukkan Al Bunn Cafe,restaurant_cafe,mobility,EXCLUDED,W4,W7,PASS,PASS,PASS,FAIL,NOT_APPLICABLE,NOT_APPLICABLE,FAIL,PASS,,,,,,,
+P128,Maqha Al Wadi Cafe,restaurant_cafe,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P129,Hail Table Kitchen,restaurant_cafe,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P130,Mirsal Cafe,restaurant_cafe,mobility,ELIGIBLE_WITH_CAVEATS,,W7,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,FAIL,PASS,,,,,,,
+P131,Dalla and Dates Cafe,restaurant_cafe,mobility,EXCLUDED,W4,W7,PASS,PASS,PASS,FAIL,NOT_APPLICABLE,NOT_APPLICABLE,FAIL,PASS,,,,,,,
+P132,Najd Hearth Restaurant,restaurant_cafe,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P133,Dar Al Hakawati Theatre,live_show,mobility,EXCLUDED,W4,W7,PASS,PASS,PASS,FAIL,NOT_APPLICABLE,NOT_APPLICABLE,FAIL,PASS,,,,,,,
+P134,Layali Al Ardha Show,live_show,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P135,Qamar Al Layl Concert Hall,live_show,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P136,Sahat Al Ghina Amphitheatre,live_show,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P137,Masrah Al Raha Theatre,live_show,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P138,Ard Al Funun Festival Stage,live_show,mobility,ELIGIBLE_WITH_CAVEATS,,W8,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,FAIL,,,,,,,
+P139,Nujum Al Sahra Winter Show,live_show,mobility,EXCLUDED,W4,W7,PASS,PASS,PASS,FAIL,NOT_APPLICABLE,NOT_APPLICABLE,FAIL,PASS,,,,,,,
+P140,Sada Al Oud Concert Hall,live_show,mobility,ELIGIBLE_WITH_CAVEATS,,W7,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,FAIL,PASS,,,,,,,
+P141,Haflat Al Shita Winter Show,live_show,mobility,EXCLUDED,W4,W7,PASS,PASS,PASS,FAIL,NOT_APPLICABLE,NOT_APPLICABLE,FAIL,PASS,,,,,,,
+P142,Layali Al Ahlam Theatre,live_show,mobility,EXCLUDED,W4,,PASS,PASS,PASS,FAIL,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P143,Zaman Al Tarab Concert Hall,live_show,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P144,Majlis Al Sameer Theatre,live_show,mobility,ELIGIBLE,,,PASS,PASS,PASS,PASS,NOT_APPLICABLE,NOT_APPLICABLE,PASS,PASS,,,,,,,
+P001,Dar Al Wasm Museum,history_museum,visual,ELIGIBLE,,,,,,,,,,,PASS,PASS,PASS,,,,
+P002,Bayt Al Rawi Museum,history_museum,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P003,Khazna Al Zaman Museum,history_museum,visual,ELIGIBLE,,,,,,,,,,,PASS,PASS,PASS,,,,
+P004,Mataf Al Ajdad Museum,history_museum,visual,ELIGIBLE,,,,,,,,,,,PASS,PASS,PASS,,,,
+P005,Dar Al Sijill Museum,history_museum,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,PASS,FAIL,PASS,,,,
+P006,Bayt Al Qawafil Museum,history_museum,visual,ELIGIBLE,,,,,,,,,,,PASS,PASS,PASS,,,,
+P007,Matherat Najd Museum,history_museum,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P008,Dar Al Hikaya Museum,history_museum,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,PASS,FAIL,PASS,,,,
+P009,Rawaq Al Tarikh Museum,history_museum,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P010,Khizanat Al Rimal Museum,history_museum,visual,ELIGIBLE,,,,,,,,,,,PASS,PASS,PASS,,,,
+P011,Bayt Al Dhakira Museum,history_museum,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P012,Majlis Al Athar Museum,history_museum,visual,ELIGIBLE,,,,,,,,,,,PASS,PASS,PASS,,,,
+P013,Ruwaq Al Alwan Gallery,art_gallery,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,PASS,FAIL,FAIL,,,,
+P014,Dar Al Farsha Gallery,art_gallery,visual,ELIGIBLE,,,,,,,,,,,PASS,PASS,PASS,,,,
+P015,Mashrabiya Art House,art_gallery,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P016,Sada Al Khat Gallery,art_gallery,visual,ELIGIBLE,,,,,,,,,,,PASS,PASS,PASS,,,,
+P017,Lawha Najdiyya Gallery,art_gallery,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P018,Bayt Al Ibda Gallery,art_gallery,visual,ELIGIBLE,,,,,,,,,,,PASS,PASS,PASS,,,,
+P019,Atelier Al Ishraq,art_gallery,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,PASS,FAIL,PASS,,,,
+P020,Manzil Al Rassam Gallery,art_gallery,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,PASS,FAIL,FAIL,,,,
+P021,Khayal Art Space,art_gallery,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P022,Dar Al Lawn Gallery,art_gallery,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P023,Sahat Al Fann Gallery,art_gallery,visual,ELIGIBLE,,,,,,,,,,,PASS,PASS,PASS,,,,
+P024,Ruya Contemporary Gallery,art_gallery,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,PASS,FAIL,PASS,,,,
+P025,Qasr Al Sabr Fortress,heritage_site,visual,ELIGIBLE_WITH_CAVEATS,,B3,,,,,,,,,NOT_APPLICABLE,PASS,FAIL,,,,
+P026,Hayy Al Tin Old Quarter,heritage_site,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P027,Burj Al Hajar Fort,heritage_site,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P028,Zuqaq Al Nakhla Old Quarter,heritage_site,visual,ELIGIBLE_WITH_CAVEATS,,B3,,,,,,,,,NOT_APPLICABLE,PASS,FAIL,,,,
+P029,Qasr Al Samar Palace,heritage_site,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P030,Hara Al Ramth Old Quarter,heritage_site,visual,ELIGIBLE_WITH_CAVEATS,,B3,,,,,,,,,NOT_APPLICABLE,PASS,FAIL,,,,
+P031,Qalat Al Wadi Fort,heritage_site,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P032,Sur Al Madina Wall Quarter,heritage_site,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P033,Qasr Al Mazraa Palace,heritage_site,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P034,Hisn Al Turab Fort,heritage_site,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P035,Darb Al Tujjar Old Quarter,heritage_site,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P036,Qasr Al Shuyukh Palace,heritage_site,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P037,Footsteps of the Elders Walking Tour,guided_heritage_tour,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P038,Palace Lanes Heritage Tour,guided_heritage_tour,visual,ELIGIBLE_WITH_CAVEATS,,B3,,,,,,,,,NOT_APPLICABLE,PASS,FAIL,,,,
+P039,Old Trade Route Tour,guided_heritage_tour,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P040,Stories of the Mudbrick Wall Tour,guided_heritage_tour,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,NOT_APPLICABLE,FAIL,FAIL,,,,
+P041,Najdi Doors and Courtyards Tour,guided_heritage_tour,visual,ELIGIBLE_WITH_CAVEATS,,B3,,,,,,,,,NOT_APPLICABLE,PASS,FAIL,,,,
+P042,Whispers of the Old Quarter Tour,guided_heritage_tour,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P043,Valley Heritage Trail Tour,guided_heritage_tour,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P044,Caravan Memories Walking Tour,guided_heritage_tour,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P045,Lamps of the Old City Tour,guided_heritage_tour,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P046,Founders Path Heritage Tour,guided_heritage_tour,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P047,Keepers of the Old Gate Tour,guided_heritage_tour,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P048,Sandstone Quarter Evening Tour,guided_heritage_tour,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,NOT_APPLICABLE,FAIL,FAIL,,,,
+P049,Palm Court Gardens,park_garden,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P050,Wadi Breeze Park,park_garden,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P051,Olive Walk Garden,park_garden,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P052,Jasmine Terrace Park,park_garden,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P053,Acacia Meadow Park,park_garden,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P054,Sidr Tree Gardens,park_garden,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P055,Fountain Lawn Park,park_garden,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,NOT_APPLICABLE,FAIL,FAIL,,,,
+P056,Date Grove Promenade,park_garden,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,NOT_APPLICABLE,FAIL,FAIL,,,,
+P057,Rose Circle Garden,park_garden,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P058,Palm Ridge Botanical Garden,park_garden,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P059,Lakeside Pines Park,park_garden,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P060,Green Crescent Park,park_garden,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,NOT_APPLICABLE,FAIL,FAIL,,,,
+P061,Sand Valley Camp,desert_experience,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P062,Rocky Rim Dune Safari,desert_experience,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P063,Starlit Sands Camp,desert_experience,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P064,Sunset Ridge Dune Drive,desert_experience,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,NOT_APPLICABLE,FAIL,FAIL,,,,
+P065,Falcon Wing Desert Camp,desert_experience,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P066,Golden Hour Sand Trek,desert_experience,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P067,Bedouin Fire Camp,desert_experience,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P068,Silent Dunes Overnight Camp,desert_experience,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,NOT_APPLICABLE,FAIL,FAIL,,,,
+P069,Camel Trail Dune Camp,desert_experience,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P070,Oryx Plains Desert Camp,desert_experience,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P071,Moonrise Sand Sea Camp,desert_experience,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,NOT_APPLICABLE,FAIL,FAIL,,,,
+P072,Dune Crest Quad Expedition,desert_experience,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P073,Wadi Al Qata Reserve,nature_reserve,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,NOT_APPLICABLE,FAIL,FAIL,,,,
+P074,Hafat Al Sakhr Reserve,nature_reserve,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P075,Raudat Al Zuhur Reserve,nature_reserve,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P076,Wadi Al Uqab Nature Reserve,nature_reserve,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P077,Shaib Al Sail Reserve,nature_reserve,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P078,Umm Sidr Nature Reserve,nature_reserve,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P079,Wadi Al Ghaf Trails,nature_reserve,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,NOT_APPLICABLE,FAIL,FAIL,,,,
+P080,Jabal Al Sawan Reserve,nature_reserve,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,NOT_APPLICABLE,FAIL,FAIL,,,,
+P081,Raudat Al Arfaj Reserve,nature_reserve,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,NOT_APPLICABLE,FAIL,FAIL,,,,
+P082,Wadi Al Dhib Nature Reserve,nature_reserve,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P083,Shaqq Al Talh Reserve,nature_reserve,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P084,Al Hadba Plateau Reserve,nature_reserve,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P085,Burj Al Ufuq Deck,observation_deck,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P086,Al Qimma Tower Deck,observation_deck,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P087,Minarat Al Nujum Deck,observation_deck,visual,ELIGIBLE_WITH_CAVEATS,,B3,,,,,,,,,PASS,PASS,FAIL,,,,
+P088,Sama Al Riyadh Lookout,observation_deck,visual,ELIGIBLE,,,,,,,,,,,PASS,PASS,PASS,,,,
+P089,Burj Al Rih Observation Deck,observation_deck,visual,ELIGIBLE,,,,,,,,,,,PASS,PASS,PASS,,,,
+P090,Nafitha Al Ghuyum Deck,observation_deck,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P091,Qimat Al Mashhad Tower,observation_deck,visual,ELIGIBLE,,,,,,,,,,,PASS,PASS,PASS,,,,
+P092,Al Rafraf Skyview Deck,observation_deck,visual,ELIGIBLE,,,,,,,,,,,PASS,PASS,PASS,,,,
+P093,Manar Al Madina Deck,observation_deck,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P094,Burj Al Ghurub Deck,observation_deck,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P095,Ufuq Najd Lookout,observation_deck,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,PASS,FAIL,PASS,,,,
+P096,Sahat Al Sama Deck,observation_deck,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P097,Souq Al Nahhasin,traditional_market,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P098,Souq Al Khayyatin,traditional_market,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P099,Souq Al Ghazl,traditional_market,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,NOT_APPLICABLE,FAIL,FAIL,,,,
+P100,Souq Al Mishkhab,traditional_market,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,NOT_APPLICABLE,FAIL,FAIL,,,,
+P101,Souq Al Dallalin,traditional_market,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P102,Souq Al Samn,traditional_market,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P103,Souq Al Hinna,traditional_market,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P104,Souq Al Zarabil,traditional_market,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P105,Souq Al Bukhoor,traditional_market,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P106,Souq Al Sagha,traditional_market,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,NOT_APPLICABLE,FAIL,FAIL,,,,
+P107,Souq Al Kutub,traditional_market,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P108,Souq Al Tamr,traditional_market,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P109,Bawwabat Al Shams Mall,shopping_mall,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P110,Marsa Al Najma Mall,shopping_mall,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P111,Riwaq Al Hadath Mall,shopping_mall,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,NOT_APPLICABLE,FAIL,FAIL,,,,
+P112,Mujamma Al Yaqut Mall,shopping_mall,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P113,Sahat Al Tijara Mall,shopping_mall,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P114,Ufuq Al Medina Mall,shopping_mall,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P115,Qaryat Al Dhiya Mall,shopping_mall,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P116,Mujamma Al Fajr Mall,shopping_mall,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P117,Mawqif Al Tuyur Mall,shopping_mall,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P118,Bawabat Al Rimal Mall,shopping_mall,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P119,Mujamma Al Ward Mall,shopping_mall,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P120,Sahat Al Qamar Mall,shopping_mall,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P121,Matbakh Al Jidd Restaurant,restaurant_cafe,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P122,Mandi House Al Ghurub,restaurant_cafe,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P123,Bayt Al Qahwa Cafe,restaurant_cafe,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P124,Tannour Al Hara Restaurant,restaurant_cafe,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,NOT_APPLICABLE,FAIL,FAIL,,,,
+P125,Saj and Embers Restaurant,restaurant_cafe,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P126,Kabsa Courtyard Restaurant,restaurant_cafe,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P127,Dukkan Al Bunn Cafe,restaurant_cafe,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P128,Maqha Al Wadi Cafe,restaurant_cafe,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,NOT_APPLICABLE,FAIL,FAIL,,,,
+P129,Hail Table Kitchen,restaurant_cafe,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P130,Mirsal Cafe,restaurant_cafe,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P131,Dalla and Dates Cafe,restaurant_cafe,visual,ELIGIBLE,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,,,,
+P132,Najd Hearth Restaurant,restaurant_cafe,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,,,,
+P133,Dar Al Hakawati Theatre,live_show,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P134,Layali Al Ardha Show,live_show,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P135,Qamar Al Layl Concert Hall,live_show,visual,ELIGIBLE_WITH_CAVEATS,,B2;B3,,,,,,,,,PASS,FAIL,FAIL,,,,
+P136,Sahat Al Ghina Amphitheatre,live_show,visual,ELIGIBLE,,,,,,,,,,,PASS,PASS,PASS,,,,
+P137,Masrah Al Raha Theatre,live_show,visual,ELIGIBLE,,,,,,,,,,,PASS,PASS,PASS,,,,
+P138,Ard Al Funun Festival Stage,live_show,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P139,Nujum Al Sahra Winter Show,live_show,visual,ELIGIBLE,,,,,,,,,,,PASS,PASS,PASS,,,,
+P140,Sada Al Oud Concert Hall,live_show,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P141,Haflat Al Shita Winter Show,live_show,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P142,Layali Al Ahlam Theatre,live_show,visual,ELIGIBLE,,,,,,,,,,,PASS,PASS,PASS,,,,
+P143,Zaman Al Tarab Concert Hall,live_show,visual,ELIGIBLE_WITH_CAVEATS,,B2,,,,,,,,,PASS,FAIL,PASS,,,,
+P144,Majlis Al Sameer Theatre,live_show,visual,EXCLUDED,B1,,,,,,,,,,FAIL,PASS,PASS,,,,
+P001,Dar Al Wasm Museum,history_museum,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P002,Bayt Al Rawi Museum,history_museum,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P003,Khazna Al Zaman Museum,history_museum,hearing,ELIGIBLE_WITH_CAVEATS,,D3,,,,,,,,,,,,NOT_APPLICABLE,PASS,FAIL,PASS
+P004,Mataf Al Ajdad Museum,history_museum,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P005,Dar Al Sijill Museum,history_museum,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,PASS
+P006,Bayt Al Qawafil Museum,history_museum,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P007,Matherat Najd Museum,history_museum,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P008,Dar Al Hikaya Museum,history_museum,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P009,Rawaq Al Tarikh Museum,history_museum,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,PASS
+P010,Khizanat Al Rimal Museum,history_museum,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,FAIL
+P011,Bayt Al Dhakira Museum,history_museum,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P012,Majlis Al Athar Museum,history_museum,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P013,Ruwaq Al Alwan Gallery,art_gallery,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P014,Dar Al Farsha Gallery,art_gallery,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,FAIL
+P015,Mashrabiya Art House,art_gallery,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P016,Sada Al Khat Gallery,art_gallery,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P017,Lawha Najdiyya Gallery,art_gallery,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P018,Bayt Al Ibda Gallery,art_gallery,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,FAIL
+P019,Atelier Al Ishraq,art_gallery,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,PASS
+P020,Manzil Al Rassam Gallery,art_gallery,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P021,Khayal Art Space,art_gallery,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P022,Dar Al Lawn Gallery,art_gallery,hearing,ELIGIBLE_WITH_CAVEATS,,D3,,,,,,,,,,,,NOT_APPLICABLE,PASS,FAIL,PASS
+P023,Sahat Al Fann Gallery,art_gallery,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P024,Ruya Contemporary Gallery,art_gallery,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P025,Qasr Al Sabr Fortress,heritage_site,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P026,Hayy Al Tin Old Quarter,heritage_site,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P027,Burj Al Hajar Fort,heritage_site,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,FAIL
+P028,Zuqaq Al Nakhla Old Quarter,heritage_site,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,FAIL
+P029,Qasr Al Samar Palace,heritage_site,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,NOT_APPLICABLE,PASS
+P030,Hara Al Ramth Old Quarter,heritage_site,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P031,Qalat Al Wadi Fort,heritage_site,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,NOT_APPLICABLE,PASS
+P032,Sur Al Madina Wall Quarter,heritage_site,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,NOT_APPLICABLE,PASS
+P033,Qasr Al Mazraa Palace,heritage_site,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P034,Hisn Al Turab Fort,heritage_site,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P035,Darb Al Tujjar Old Quarter,heritage_site,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P036,Qasr Al Shuyukh Palace,heritage_site,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,FAIL
+P037,Footsteps of the Elders Walking Tour,guided_heritage_tour,hearing,EXCLUDED,D1,,,,,,,,,,,,,FAIL,PASS,NOT_APPLICABLE,PASS
+P038,Palace Lanes Heritage Tour,guided_heritage_tour,hearing,EXCLUDED,D1,,,,,,,,,,,,,FAIL,PASS,NOT_APPLICABLE,PASS
+P039,Old Trade Route Tour,guided_heritage_tour,hearing,ELIGIBLE,,,,,,,,,,,,,,PASS,PASS,NOT_APPLICABLE,PASS
+P040,Stories of the Mudbrick Wall Tour,guided_heritage_tour,hearing,EXCLUDED,D1,,,,,,,,,,,,,FAIL,PASS,NOT_APPLICABLE,PASS
+P041,Najdi Doors and Courtyards Tour,guided_heritage_tour,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,PASS,PASS,NOT_APPLICABLE,FAIL
+P042,Whispers of the Old Quarter Tour,guided_heritage_tour,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,PASS,FAIL,NOT_APPLICABLE,PASS
+P043,Valley Heritage Trail Tour,guided_heritage_tour,hearing,ELIGIBLE,,,,,,,,,,,,,,PASS,PASS,NOT_APPLICABLE,PASS
+P044,Caravan Memories Walking Tour,guided_heritage_tour,hearing,EXCLUDED,D1,,,,,,,,,,,,,FAIL,PASS,NOT_APPLICABLE,PASS
+P045,Lamps of the Old City Tour,guided_heritage_tour,hearing,ELIGIBLE,,,,,,,,,,,,,,PASS,PASS,NOT_APPLICABLE,PASS
+P046,Founders Path Heritage Tour,guided_heritage_tour,hearing,EXCLUDED,D1,,,,,,,,,,,,,FAIL,PASS,NOT_APPLICABLE,PASS
+P047,Keepers of the Old Gate Tour,guided_heritage_tour,hearing,ELIGIBLE,,,,,,,,,,,,,,PASS,PASS,NOT_APPLICABLE,PASS
+P048,Sandstone Quarter Evening Tour,guided_heritage_tour,hearing,EXCLUDED,D1,,,,,,,,,,,,,FAIL,PASS,NOT_APPLICABLE,PASS
+P049,Palm Court Gardens,park_garden,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,NOT_APPLICABLE,PASS
+P050,Wadi Breeze Park,park_garden,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P051,Olive Walk Garden,park_garden,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P052,Jasmine Terrace Park,park_garden,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,FAIL
+P053,Acacia Meadow Park,park_garden,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P054,Sidr Tree Gardens,park_garden,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,FAIL
+P055,Fountain Lawn Park,park_garden,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P056,Date Grove Promenade,park_garden,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P057,Rose Circle Garden,park_garden,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P058,Palm Ridge Botanical Garden,park_garden,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,FAIL
+P059,Lakeside Pines Park,park_garden,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P060,Green Crescent Park,park_garden,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P061,Sand Valley Camp,desert_experience,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,NOT_APPLICABLE,PASS
+P062,Rocky Rim Dune Safari,desert_experience,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P063,Starlit Sands Camp,desert_experience,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,NOT_APPLICABLE,PASS
+P064,Sunset Ridge Dune Drive,desert_experience,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P065,Falcon Wing Desert Camp,desert_experience,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,FAIL
+P066,Golden Hour Sand Trek,desert_experience,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,NOT_APPLICABLE,PASS
+P067,Bedouin Fire Camp,desert_experience,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,NOT_APPLICABLE,PASS
+P068,Silent Dunes Overnight Camp,desert_experience,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,NOT_APPLICABLE,PASS
+P069,Camel Trail Dune Camp,desert_experience,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P070,Oryx Plains Desert Camp,desert_experience,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,NOT_APPLICABLE,PASS
+P071,Moonrise Sand Sea Camp,desert_experience,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P072,Dune Crest Quad Expedition,desert_experience,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,NOT_APPLICABLE,PASS
+P073,Wadi Al Qata Reserve,nature_reserve,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P074,Hafat Al Sakhr Reserve,nature_reserve,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,FAIL
+P075,Raudat Al Zuhur Reserve,nature_reserve,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P076,Wadi Al Uqab Nature Reserve,nature_reserve,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P077,Shaib Al Sail Reserve,nature_reserve,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,NOT_APPLICABLE,PASS
+P078,Umm Sidr Nature Reserve,nature_reserve,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P079,Wadi Al Ghaf Trails,nature_reserve,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,FAIL
+P080,Jabal Al Sawan Reserve,nature_reserve,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,NOT_APPLICABLE,PASS
+P081,Raudat Al Arfaj Reserve,nature_reserve,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,NOT_APPLICABLE,PASS
+P082,Wadi Al Dhib Nature Reserve,nature_reserve,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,FAIL
+P083,Shaqq Al Talh Reserve,nature_reserve,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P084,Al Hadba Plateau Reserve,nature_reserve,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P085,Burj Al Ufuq Deck,observation_deck,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,PASS
+P086,Al Qimma Tower Deck,observation_deck,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P087,Minarat Al Nujum Deck,observation_deck,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P088,Sama Al Riyadh Lookout,observation_deck,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,PASS
+P089,Burj Al Rih Observation Deck,observation_deck,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P090,Nafitha Al Ghuyum Deck,observation_deck,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,FAIL
+P091,Qimat Al Mashhad Tower,observation_deck,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P092,Al Rafraf Skyview Deck,observation_deck,hearing,ELIGIBLE_WITH_CAVEATS,,D3,,,,,,,,,,,,NOT_APPLICABLE,PASS,FAIL,PASS
+P093,Manar Al Madina Deck,observation_deck,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,FAIL
+P094,Burj Al Ghurub Deck,observation_deck,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P095,Ufuq Najd Lookout,observation_deck,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P096,Sahat Al Sama Deck,observation_deck,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,FAIL
+P097,Souq Al Nahhasin,traditional_market,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,NOT_APPLICABLE,PASS
+P098,Souq Al Khayyatin,traditional_market,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P099,Souq Al Ghazl,traditional_market,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P100,Souq Al Mishkhab,traditional_market,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P101,Souq Al Dallalin,traditional_market,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,FAIL
+P102,Souq Al Samn,traditional_market,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,NOT_APPLICABLE,PASS
+P103,Souq Al Hinna,traditional_market,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,FAIL
+P104,Souq Al Zarabil,traditional_market,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P105,Souq Al Bukhoor,traditional_market,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,FAIL
+P106,Souq Al Sagha,traditional_market,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P107,Souq Al Kutub,traditional_market,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,FAIL
+P108,Souq Al Tamr,traditional_market,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,NOT_APPLICABLE,PASS
+P109,Bawwabat Al Shams Mall,shopping_mall,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,FAIL
+P110,Marsa Al Najma Mall,shopping_mall,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P111,Riwaq Al Hadath Mall,shopping_mall,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P112,Mujamma Al Yaqut Mall,shopping_mall,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,FAIL
+P113,Sahat Al Tijara Mall,shopping_mall,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P114,Ufuq Al Medina Mall,shopping_mall,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P115,Qaryat Al Dhiya Mall,shopping_mall,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P116,Mujamma Al Fajr Mall,shopping_mall,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P117,Mawqif Al Tuyur Mall,shopping_mall,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,PASS
+P118,Bawabat Al Rimal Mall,shopping_mall,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P119,Mujamma Al Ward Mall,shopping_mall,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P120,Sahat Al Qamar Mall,shopping_mall,hearing,ELIGIBLE_WITH_CAVEATS,,D3,,,,,,,,,,,,NOT_APPLICABLE,PASS,FAIL,PASS
+P121,Matbakh Al Jidd Restaurant,restaurant_cafe,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,PASS
+P122,Mandi House Al Ghurub,restaurant_cafe,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P123,Bayt Al Qahwa Cafe,restaurant_cafe,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P124,Tannour Al Hara Restaurant,restaurant_cafe,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,FAIL
+P125,Saj and Embers Restaurant,restaurant_cafe,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P126,Kabsa Courtyard Restaurant,restaurant_cafe,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P127,Dukkan Al Bunn Cafe,restaurant_cafe,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,FAIL
+P128,Maqha Al Wadi Cafe,restaurant_cafe,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,FAIL
+P129,Hail Table Kitchen,restaurant_cafe,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,PASS
+P130,Mirsal Cafe,restaurant_cafe,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P131,Dalla and Dates Cafe,restaurant_cafe,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,NOT_APPLICABLE,FAIL,PASS,PASS
+P132,Najd Hearth Restaurant,restaurant_cafe,hearing,ELIGIBLE,,,,,,,,,,,,,,NOT_APPLICABLE,PASS,PASS,PASS
+P133,Dar Al Hakawati Theatre,live_show,hearing,EXCLUDED,D1,,,,,,,,,,,,,FAIL,PASS,PASS,PASS
+P134,Layali Al Ardha Show,live_show,hearing,EXCLUDED,D1,,,,,,,,,,,,,FAIL,PASS,PASS,PASS
+P135,Qamar Al Layl Concert Hall,live_show,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,PASS,PASS,PASS,FAIL
+P136,Sahat Al Ghina Amphitheatre,live_show,hearing,ELIGIBLE,,,,,,,,,,,,,,PASS,PASS,PASS,PASS
+P137,Masrah Al Raha Theatre,live_show,hearing,ELIGIBLE_WITH_CAVEATS,,D2,,,,,,,,,,,,PASS,FAIL,PASS,PASS
+P138,Ard Al Funun Festival Stage,live_show,hearing,ELIGIBLE_WITH_CAVEATS,,D3,,,,,,,,,,,,PASS,PASS,FAIL,PASS
+P139,Nujum Al Sahra Winter Show,live_show,hearing,EXCLUDED,D1,,,,,,,,,,,,,FAIL,PASS,PASS,PASS
+P140,Sada Al Oud Concert Hall,live_show,hearing,EXCLUDED,D1,,,,,,,,,,,,,FAIL,PASS,PASS,PASS
+P141,Haflat Al Shita Winter Show,live_show,hearing,EXCLUDED,D1,,,,,,,,,,,,,FAIL,PASS,PASS,PASS
+P142,Layali Al Ahlam Theatre,live_show,hearing,ELIGIBLE,,,,,,,,,,,,,,PASS,PASS,PASS,PASS
+P143,Zaman Al Tarab Concert Hall,live_show,hearing,EXCLUDED,D1,,,,,,,,,,,,,FAIL,PASS,PASS,PASS
+P144,Majlis Al Sameer Theatre,live_show,hearing,ELIGIBLE_WITH_CAVEATS,,D4,,,,,,,,,,,,PASS,PASS,PASS,FAIL

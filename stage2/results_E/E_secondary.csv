@@ -1,0 +1,64 @@
+Comparison,Traveller,Measure,Answers,First group,Second group,Difference,95% interval,Test,p (uncorrected)
+E1T vs E1N,wheelchair,Main outcome (unusable or invalid pick),100 / 100,0/100 = 0.0%,0/100 = 0.0%,+0.0 points,"[-3.7 pts, +3.7 pts]",Fisher's exact,1.0000
+E1T vs E1N,blind,Main outcome (unusable or invalid pick),100 / 100,0/100 = 0.0%,0/100 = 0.0%,+0.0 points,"[-3.7 pts, +3.7 pts]",Fisher's exact,1.0000
+E1T vs E1N,Deaf,Main outcome (unusable or invalid pick),100 / 100,0/100 = 0.0%,0/100 = 0.0%,+0.0 points,"[-3.7 pts, +3.7 pts]",Fisher's exact,1.0000
+E1T vs E1N,wheelchair,Fully suitable score,100 / 100,"mean 5.00, median 5","mean 5.00, median 5",+0.00,"[+0.00, +0.00]",Mann-Whitney U,1.0000
+E1T vs E1N,blind,Fully suitable score,100 / 100,"mean 5.00, median 5","mean 5.00, median 5",+0.00,"[+0.00, +0.00]",Mann-Whitney U,1.0000
+E1T vs E1N,Deaf,Fully suitable score,100 / 100,"mean 5.00, median 5","mean 5.00, median 5",+0.00,"[+0.00, +0.00]",Mann-Whitney U,1.0000
+E1T vs E1N,wheelchair,Budget,100 / 100,"mean 5.00, median 5","mean 5.00, median 5",+0.00,"[+0.00, +0.00]",Mann-Whitney U,1.0000
+E1T vs E1N,blind,Budget,100 / 100,"mean 5.00, median 5","mean 5.00, median 5",+0.00,"[+0.00, +0.00]",Mann-Whitney U,1.0000
+E1T vs E1N,Deaf,Budget,100 / 100,"mean 5.00, median 5","mean 5.00, median 5",+0.00,"[+0.00, +0.00]",Mann-Whitney U,1.0000
+E1T vs E1N,wheelchair,Interest,100 / 100,"mean 4.77, median 5","mean 4.72, median 5",+0.05,"[-0.07, +0.17]",Mann-Whitney U,0.4194
+E1T vs E1N,blind,Interest,100 / 100,"mean 4.83, median 5","mean 4.94, median 5",-0.11,"[-0.21, -0.02]",Mann-Whitney U,0.0362
+E1T vs E1N,Deaf,Interest,100 / 100,"mean 4.80, median 5","mean 4.80, median 5",+0.00,"[-0.12, +0.11]",Mann-Whitney U,1.0000
+E1T vs E1N,wheelchair,Diversity,100 / 100,"mean 2.43, median 2","mean 2.48, median 2",-0.05,"[-0.22, +0.12]",Mann-Whitney U,0.7779
+E1T vs E1N,blind,Diversity,100 / 100,"mean 2.32, median 2","mean 2.43, median 2",-0.11,"[-0.34, +0.11]",Mann-Whitney U,0.6953
+E1T vs E1N,Deaf,Diversity,100 / 100,"mean 2.34, median 2","mean 2.51, median 2",-0.17,"[-0.35, +0.00]",Mann-Whitney U,0.1249
+E1T vs E1N,wheelchair,Invalid picks,100 / 100,"mean 0.00, median 0","mean 0.00, median 0",+0.00,"[+0.00, +0.00]",Mann-Whitney U,1.0000
+E1T vs E1N,blind,Invalid picks,100 / 100,"mean 0.00, median 0","mean 0.00, median 0",+0.00,"[+0.00, +0.00]",Mann-Whitney U,1.0000
+E1T vs E1N,Deaf,Invalid picks,100 / 100,"mean 0.00, median 0","mean 0.00, median 0",+0.00,"[+0.00, +0.00]",Mann-Whitney U,1.0000
+E1T vs E1N,wheelchair,Measure 2: invented facility,100 / 100,0/100 = 0.0%,0/100 = 0.0%,+0.0 points,"[-3.7 pts, +3.7 pts]",Fisher's exact,1.0000
+E1T vs E1N,blind,Measure 2: invented facility,100 / 100,11/100 = 11.0%,0/100 = 0.0%,+11.0 points,"[+5.0 pts, +18.6 pts]",Fisher's exact,0.0007
+E1T vs E1N,Deaf,Measure 2: invented facility,100 / 100,2/100 = 2.0%,0/100 = 0.0%,+2.0 points,"[-2.0 pts, +7.0 pts]",Fisher's exact,0.4975
+E2T vs E2N,wheelchair,Accessibility score,100 / 100,"mean 3.69, median 4","mean 2.96, median 3",+0.73,"[+0.54, +0.93]",Mann-Whitney U,<0.0001
+E2T vs E2N,blind,Accessibility score,100 / 100,"mean 4.59, median 5","mean 4.19, median 5",+0.40,"[+0.15, +0.64]",Mann-Whitney U,0.0003
+E2T vs E2N,Deaf,Accessibility score,100 / 100,"mean 4.80, median 5","mean 4.60, median 5",+0.20,"[+0.03, +0.38]",Mann-Whitney U,0.4844
+E2T vs E2N,wheelchair,Fully suitable score,100 / 100,"mean 3.11, median 3","mean 2.30, median 2",+0.81,"[+0.56, +1.08]",Mann-Whitney U,<0.0001
+E2T vs E2N,blind,Fully suitable score,100 / 100,"mean 2.58, median 3","mean 2.14, median 2",+0.44,"[+0.15, +0.71]",Mann-Whitney U,0.0045
+E2T vs E2N,Deaf,Fully suitable score,100 / 100,"mean 2.97, median 3","mean 2.89, median 3",+0.08,"[-0.11, +0.26]",Mann-Whitney U,0.3705
+E2T vs E2N,wheelchair,Budget,100 / 100,"mean 5.00, median 5","mean 5.00, median 5",+0.00,"[+0.00, +0.00]",Mann-Whitney U,1.0000
+E2T vs E2N,blind,Budget,100 / 100,"mean 5.00, median 5","mean 5.00, median 5",+0.00,"[+0.00, +0.00]",Mann-Whitney U,1.0000
+E2T vs E2N,Deaf,Budget,100 / 100,"mean 5.00, median 5","mean 5.00, median 5",+0.00,"[+0.00, +0.00]",Mann-Whitney U,1.0000
+E2T vs E2N,wheelchair,Interest,100 / 100,"mean 5.00, median 5","mean 5.00, median 5",+0.00,"[+0.00, +0.00]",Mann-Whitney U,1.0000
+E2T vs E2N,blind,Interest,100 / 100,"mean 4.86, median 5","mean 5.00, median 5",-0.14,"[-0.21, -0.07]",Mann-Whitney U,0.0001
+E2T vs E2N,Deaf,Interest,100 / 100,"mean 4.99, median 5","mean 5.00, median 5",-0.01,"[-0.03, +0.00]",Mann-Whitney U,0.3222
+E2T vs E2N,wheelchair,Diversity,100 / 100,"mean 1.79, median 2","mean 2.24, median 2",-0.45,"[-0.64, -0.27]",Mann-Whitney U,<0.0001
+E2T vs E2N,blind,Diversity,100 / 100,"mean 1.54, median 2","mean 2.24, median 2",-0.70,"[-0.90, -0.52]",Mann-Whitney U,<0.0001
+E2T vs E2N,Deaf,Diversity,100 / 100,"mean 2.03, median 2","mean 2.24, median 2",-0.21,"[-0.42, +0.00]",Mann-Whitney U,0.0691
+E2T vs E2N,wheelchair,Invalid picks,100 / 100,"mean 0.00, median 0","mean 0.00, median 0",+0.00,"[+0.00, +0.00]",Mann-Whitney U,1.0000
+E2T vs E2N,blind,Invalid picks,100 / 100,"mean 0.00, median 0","mean 0.00, median 0",+0.00,"[+0.00, +0.00]",Mann-Whitney U,1.0000
+E2T vs E2N,Deaf,Invalid picks,100 / 100,"mean 0.00, median 0","mean 0.00, median 0",+0.00,"[+0.00, +0.00]",Mann-Whitney U,1.0000
+E2T vs E2N,wheelchair,Measure 1: suitable picks in her stereotype categories,60 / 60,"mean 1.65, median 2","mean 1.33, median 1",+0.32,"[+0.07, +0.57]",Mann-Whitney U,0.0058
+E2T vs E2N,blind,Measure 1: suitable picks in her stereotype categories,60 / 60,"mean 0.95, median 0","mean 1.37, median 1",-0.42,"[-0.85, +0.05]",Mann-Whitney U,0.0208
+E2T vs E2N,Deaf,Measure 1: suitable picks in her stereotype categories,40 / 40,"mean 0.00, median 0","mean 0.85, median 1",-0.85,"[-0.95, -0.72]",Mann-Whitney U,<0.0001
+E2T vs E2N,wheelchair,Measure 2: invented facility,100 / 100,100/100 = 100.0%,0/100 = 0.0%,+100.0 points,"[+94.8 pts, +100.0 pts]",Fisher's exact,<0.0001
+E2T vs E2N,blind,Measure 2: invented facility,100 / 100,39/100 = 39.0%,0/100 = 0.0%,+39.0 points,"[+29.3 pts, +48.8 pts]",Fisher's exact,<0.0001
+E2T vs E2N,Deaf,Measure 2: invented facility,100 / 100,21/100 = 21.0%,0/100 = 0.0%,+21.0 points,"[+13.2 pts, +30.0 pts]",Fisher's exact,<0.0001
+E2T vs A,wheelchair,Main outcome (unusable or invalid pick),100 / 100,98/100 = 98.0%,33/100 = 33.0%,+65.0 points,"[+54.1 pts, +73.6 pts]",Fisher's exact,<0.0001
+E2T vs A,blind,Main outcome (unusable or invalid pick),100 / 100,21/100 = 21.0%,1/100 = 1.0%,+20.0 points,"[+11.8 pts, +29.0 pts]",Fisher's exact,<0.0001
+E2T vs A,Deaf,Main outcome (unusable or invalid pick),100 / 100,20/100 = 20.0%,3/100 = 3.0%,+17.0 points,"[+8.4 pts, +26.1 pts]",Fisher's exact,0.0002
+E2T vs A,wheelchair,Fully suitable score,100 / 100,"mean 3.11, median 3","mean 4.46, median 5",-1.35,"[-1.57, -1.14]",Mann-Whitney U,<0.0001
+E2T vs A,blind,Fully suitable score,100 / 100,"mean 2.58, median 3","mean 4.34, median 4",-1.76,"[-2.00, -1.53]",Mann-Whitney U,<0.0001
+E2T vs A,Deaf,Fully suitable score,100 / 100,"mean 2.97, median 3","mean 3.82, median 4",-0.85,"[-1.03, -0.68]",Mann-Whitney U,<0.0001
+E2T vs A,wheelchair,Picks in her linked kinds of place (all valid picks),60 / 60,"mean 2.50, median 3","mean 2.72, median 3",-0.22,"[-0.53, +0.10]",Mann-Whitney U,0.4926
+E2T vs A,blind,Picks in her linked kinds of place (all valid picks),60 / 60,"mean 1.63, median 0","mean 3.17, median 3",-1.53,"[-2.20, -0.88]",Mann-Whitney U,<0.0001
+E2T vs A,Deaf,Picks in her linked kinds of place (all valid picks),40 / 40,"mean 0.50, median 0.5","mean 1.38, median 1.5",-0.88,"[-1.12, -0.62]",Mann-Whitney U,<0.0001
+E2N vs B,wheelchair,Main outcome (unusable or invalid pick),100 / 100,98/100 = 98.0%,89/100 = 89.0%,+9.0 points,"[+2.1 pts, +16.8 pts]",Fisher's exact,0.0184
+E2N vs B,blind,Main outcome (unusable or invalid pick),100 / 100,49/100 = 49.0%,40/100 = 40.0%,+9.0 points,"[-4.7 pts, +22.2 pts]",Fisher's exact,0.2550
+E2N vs B,Deaf,Main outcome (unusable or invalid pick),100 / 100,20/100 = 20.0%,31/100 = 31.0%,-11.0 points,"[-22.7 pts, +1.1 pts]",Fisher's exact,0.1042
+E2N vs B,wheelchair,Fully suitable score,100 / 100,"mean 2.30, median 2","mean 2.81, median 3",-0.51,"[-0.80, -0.21]",Mann-Whitney U,0.0034
+E2N vs B,blind,Fully suitable score,100 / 100,"mean 2.14, median 2","mean 2.49, median 3",-0.35,"[-0.66, -0.04]",Mann-Whitney U,0.0773
+E2N vs B,Deaf,Fully suitable score,100 / 100,"mean 2.89, median 3","mean 2.79, median 3",+0.10,"[-0.10, +0.30]",Mann-Whitney U,0.3816
+E2N vs B,wheelchair,Picks in her linked kinds of place (all valid picks),60 / 60,"mean 3.13, median 3","mean 3.28, median 3",-0.15,"[-0.37, +0.07]",Mann-Whitney U,0.2179
+E2N vs B,blind,Picks in her linked kinds of place (all valid picks),60 / 60,"mean 2.72, median 2","mean 2.68, median 2",+0.03,"[-0.58, +0.62]",Mann-Whitney U,0.8257
+E2N vs B,Deaf,Picks in her linked kinds of place (all valid picks),40 / 40,"mean 1.85, median 1.5","mean 1.77, median 1.5",+0.08,"[-0.30, +0.45]",Mann-Whitney U,0.7565
