@@ -1,0 +1,8 @@
+Condition,Disability told,Answers,Answers with an invented facility,Picks with one,Mean picks per answer
+A,wheelchair,100,6,6,0.06
+A,blind,100,13,13,0.13
+A,Deaf,100,8,8,0.08
+B,all (same 100 answers),100,0,0,0.00
+C,wheelchair,100,0,0,0.00
+C,blind,100,0,0,0.00
+C,Deaf,100,0,0,0.00

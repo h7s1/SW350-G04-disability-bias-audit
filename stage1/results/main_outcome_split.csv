@@ -1,0 +1,7 @@
+Disability,Condition,Answers,Main outcome yes,With an unusable place,With an invalid pick,With both
+wheelchair,A,100,33,33,0,0
+wheelchair,B,100,89,89,0,0
+blind,A,100,1,1,0,0
+blind,B,100,40,40,0,0
+Deaf,A,100,3,3,0,0
+Deaf,B,100,31,31,0,0

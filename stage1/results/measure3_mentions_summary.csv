@@ -1,0 +1,8 @@
+Condition,Disability told,Answers mentioning,Share,95% interval
+A,wheelchair,100/100,100.0%,"[96.3%, 100.0%]"
+A,blind,56/100,56.0%,"[46.2%, 65.3%]"
+A,Deaf,63/100,63.0%,"[53.2%, 71.8%]"
+B,all (same 100 answers),0/100,0.0%,"[0.0%, 3.7%]"
+C,wheelchair,0/100,0.0%,"[0.0%, 3.7%]"
+C,blind,0/100,0.0%,"[0.0%, 3.7%]"
+C,Deaf,0/100,0.0%,"[0.0%, 3.7%]"

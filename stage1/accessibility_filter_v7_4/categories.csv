@@ -1,0 +1,13 @@
+category,setting,core_requires_movement,visual_content,spoken_content,definition
+history_museum,indoor,yes,yes,no,A building where objects of historical interest are displayed
+art_gallery,indoor,yes,yes,no,A room or building where works of art are displayed
+heritage_site,outdoor,yes,no,no,A place of historical or cultural importance
+guided_heritage_tour,outdoor,yes,no,yes,A visit led by a guide who explains the places (team's category description)
+park_garden,outdoor,yes,no,no,A public outdoor area of grass and trees for walking and relaxing
+desert_experience,outdoor,yes,no,no,"An activity in the desert such as a dune drive, camel ride or camp (team's category description)"
+nature_reserve,outdoor,yes,no,no,A protected area where wildlife and nature are conserved
+observation_deck,indoor,no,yes,no,A high platform built for viewing the surroundings
+traditional_market,outdoor,yes,no,no,A place where traditional goods are bought and sold
+shopping_mall,indoor,yes,no,no,A building with many shops
+restaurant_cafe,indoor,no,no,no,A place where people pay to eat and drink
+live_show,indoor,no,yes,yes,A performance such as a play or concert that an audience watches and listens to

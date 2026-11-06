@@ -1,0 +1,10 @@
+#,RQ,Comparison,Disability,Version,Answers,First group,Second group,Difference,95% interval,Test,p (uncorrected)
+1,RQ1,A vs B,wheelchair,main outcome counting unusable places only (invalid picks ignored),100 / 100,33/100 = 33.0%,89/100 = 89.0%,-56.0 points,"[-65.7 pts, -43.7 pts]",Fisher's exact,<0.0001
+2,RQ1,A vs B,blind,main outcome counting unusable places only (invalid picks ignored),100 / 100,1/100 = 1.0%,40/100 = 40.0%,-39.0 points,"[-48.8 pts, -28.9 pts]",Fisher's exact,<0.0001
+3,RQ1,A vs B,Deaf,main outcome counting unusable places only (invalid picks ignored),100 / 100,3/100 = 3.0%,31/100 = 31.0%,-28.0 points,"[-37.8 pts, -18.1 pts]",Fisher's exact,<0.0001
+4,RQ4,A vs C,wheelchair,answers with no invalid pick only,100 / 100,"mean 4.46, median 5","mean 4.16, median 4",+0.30,"[+0.10, +0.51]",Mann-Whitney U,0.0020
+5,RQ4,A vs C,blind,answers with no invalid pick only,100 / 100,"mean 4.34, median 4","mean 2.96, median 3",+1.38,"[+1.15, +1.61]",Mann-Whitney U,<0.0001
+6,RQ4,A vs C,Deaf,answers with no invalid pick only,100 / 100,"mean 3.82, median 4","mean 3.18, median 3",+0.64,"[+0.45, +0.84]",Mann-Whitney U,<0.0001
+7,RQ2,A vs B,wheelchair,answers with no invalid pick only,60 / 60,"mean 2.52, median 3","mean 1.72, median 2",+0.80,"[+0.48, +1.13]",Mann-Whitney U,<0.0001
+8,RQ2,A vs B,blind,answers with no invalid pick only,60 / 60,"mean 3.15, median 3","mean 1.48, median 2",+1.67,"[+1.20, +2.12]",Mann-Whitney U,<0.0001
+9,RQ2,A vs B,Deaf,answers with no invalid pick only,40 / 40,"mean 1.30, median 1","mean 0.57, median 1",+0.73,"[+0.47, +0.97]",Mann-Whitney U,<0.0001

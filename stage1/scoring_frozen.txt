@@ -1,0 +1,19 @@
+SW350 G04: scoring and analysis code, frozen before use on the real answers
+
+Written: 29 Oct 2026, after the run (00:54:48 to 01:29:27, +03:00) and before any answer was scored.
+Tested: test_scoring.py, 76 of 76 checks passed (hand-made cases, statistics helpers, 700 fake answers).
+Frozen: 29 Oct 2026 02:24 (+03:00). SHA-256 of the three scripts:
+
+score_answers.py SHA-256: 0eec64a6481ed12df4a88901efb5b0bce0aded088525f9d5c2270e5f3bf30486
+analyse.py SHA-256: e3856b57235371cc7bbe239775659de83f42b6bf344b48df95ddd3281320293e
+test_scoring.py SHA-256: 285bb41584550ec5b39ab9afa5d39e374ac82950bcb52c713105d6dfc74c20f1
+
+Checked once on a copy of the real answers.jsonl (29 Oct 2026 02:25, by Claude, to confirm the scripts run):
+both scripts finished without errors; all 700 answers were read; every pick was matched by its place_id
+(no name matches, repeats, missing or extra picks). No change was made to any script after this check.
+
+Expected scores file (results/scores_per_answer.csv) from the real answers.jsonl:
+c617e7743e938a474b70d21982448e38b316a4f3a9c6c9c18ff4c27526280e5d
+
+Uses: filter v7.4 (filter.py 21f32162d00480627eee9712ef17710690016a82bdbe522e747764b02d0cc2e3), the analysis
+plan v2.1 (final 29 Oct 2026 00:19), and the clarifications listed at the end of README_ANALYSIS.md.
