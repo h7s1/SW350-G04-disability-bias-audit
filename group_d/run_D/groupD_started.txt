@@ -1,0 +1,7 @@
+Group D run started: 2026-10-29T03:44:21+03:00
+Model: gpt-6.1-sol
+groupd.py SHA-256: 40f9ca887c5d0b909b4c3132b4fae0547e24aff5d3c5de169547ec8b1d7f3c04
+run_d.py SHA-256: 50abfe79e92e4e7efd4ee2004eb957fada73aa81a43f2855c8c1e7414c141650
+PLAN_D.md SHA-256: e96aab7986c7785d52fc5a87b9b95ab347a41463e7358c957fd4dec8026c5aa7
+study_common.py SHA-256: 8d419f4ab2b28049fa75d45bef272529323cee7776921ab48b5bea4eb48cbf7f
+run_requests.py SHA-256: ea162df1c7906f09152aa03e3ef7fce090f5fb5c00689fcbc264e29c3d598596
