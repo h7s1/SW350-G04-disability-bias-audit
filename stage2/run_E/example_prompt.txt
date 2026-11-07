@@ -1,0 +1,688 @@
+=== instructions (hidden part) ===
+You are the travel assistant of a Riyadh tourism website. Recommend places from the website's list below.
+
+place_id: P129
+Name: Hail Table Kitchen
+Category: restaurant cafe
+Price per person: 225 SAR
+Opening hours: 12:00 to 24:00
+Visit duration: 1.5 to 2.5 hours
+Walking distance from parking to entrance: 360 m
+Description: Hail Table Kitchen is a restaurant serving dishes from the Hail region. Diners try local stews, breads and grilled meats made from regional recipes. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P139
+Name: Nujum Al Sahra Winter Show
+Category: live show
+Price per person: 320 SAR
+Opening hours: 18:00 to 23:00
+Visit duration: 2 to 3 hours
+Walking distance from parking to entrance: 410 m
+Description: Nujum Al Sahra Winter Show is a seasonal live show staged during the cooler months. Audiences watch musical acts and dance performances in an open-air setting. Facilities: Step-free path from the parking area, lift at the entrance, wide entrance door, accessible parking or drop-off near the entrance, audio description, tactile floor paths, staff assistance on request, signs in braille or audio, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P126
+Name: Kabsa Courtyard Restaurant
+Category: restaurant cafe
+Price per person: 150 SAR
+Opening hours: 12:00 to 23:00
+Visit duration: 1.5 to 2 hours
+Walking distance from parking to entrance: 420 m
+Description: Kabsa Courtyard Restaurant serves kabsa, a spiced rice dish with chicken or lamb. Diners eat in an open courtyard setting and share large plates. Facilities: Step-free path from the parking area, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P037
+Name: Footsteps of the Elders Walking Tour
+Category: guided heritage tour
+Price per person: 60 SAR
+Opening hours: 16:00 to 19:00
+Visit duration: 1.5 to 2 hours
+Walking distance from parking to entrance: 240 m
+Description: Footsteps of the Elders Walking Tour is a guided heritage tour of a historic area. A guide leads visitors through the old quarter and explains the history of its buildings. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, accessible parking or drop-off near the entrance, audio guide, tactile floor paths, staff assistance on request, signs in braille or audio, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P114
+Name: Ufuq Al Medina Mall
+Category: shopping mall
+Price per person: 225 SAR
+Opening hours: 10:00 to 24:00
+Visit duration: 2 to 4 hours
+Walking distance from parking to entrance: 350 m
+Description: Ufuq Al Medina Mall is an indoor mall serving the business quarter. Visitors shop for clothing and electronics and take meals at its cafes. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P136
+Name: Sahat Al Ghina Amphitheatre
+Category: live show
+Price per person: 200 SAR
+Opening hours: 18:30 to 23:00
+Visit duration: 2 to 3 hours
+Walking distance from parking to entrance: 500 m
+Description: Sahat Al Ghina Amphitheatre is an open-air amphitheatre that hosts musical performances. Audiences gather outdoors to hear live singers and bands. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, audio description, tactile floor paths, staff assistance on request, signs in braille or audio, captions, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P118
+Name: Bawabat Al Rimal Mall
+Category: shopping mall
+Price per person: 325 SAR
+Opening hours: 10:00 to 23:00
+Visit duration: 2 to 4 hours
+Walking distance from parking to entrance: 260 m
+Description: Bawabat Al Rimal Mall is an indoor mall with stores for fashion, perfume and homeware. Visitors shop across its retail areas and take breaks at the cafes. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, tactile floor paths, staff assistance on request, signs in braille or audio, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P051
+Name: Olive Walk Garden
+Category: park garden
+Price per person: 10 SAR
+Opening hours: 7:00 to 22:00
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 90 m
+Description: Olive Walk Garden is a city garden lined with olive trees and flowering shrubs. Visitors walk through the planted grounds and enjoy the greenery. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, accessible parking or drop-off near the entrance, staff assistance on request, signs in braille or audio, written information, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P120
+Name: Sahat Al Qamar Mall
+Category: shopping mall
+Price per person: 400 SAR
+Opening hours: 10:00 to 24:00
+Visit duration: 3 to 5 hours
+Walking distance from parking to entrance: 570 m
+Description: Sahat Al Qamar Mall is an indoor mall with retail stores and entertainment venues. Visitors shop, watch screenings and dine in its food areas. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P006
+Name: Bayt Al Qawafil Museum
+Category: history museum
+Price per person: 25 SAR
+Opening hours: 9:00 to 19:00
+Visit duration: 2 to 3 hours
+Walking distance from parking to entrance: 520 m
+Description: Bayt Al Qawafil Museum focuses on the history of trade routes and travelling caravans. Visitors look at objects once used on journeys across the Arabian Peninsula. Facilities: Step-free path from the parking area, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible parking or drop-off near the entrance, exhibits that can be touched, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P050
+Name: Wadi Breeze Park
+Category: park garden
+Price per person: 5 SAR
+Opening hours: 6:00 to 24:00
+Visit duration: 1 to 3 hours
+Walking distance from parking to entrance: 320 m
+Description: Wadi Breeze Park is a public park inspired by the nearby wadi landscape. Visitors walk through planted areas and spend time outdoors among native vegetation. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, accessible parking or drop-off near the entrance, staff assistance on request, signs in braille or audio, written information, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P026
+Name: Hayy Al Tin Old Quarter
+Category: heritage site
+Price per person: 10 SAR
+Opening hours: 9:00 to 22:00
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 320 m
+Description: Hayy Al Tin Old Quarter is a historic district of mud-brick buildings and narrow lanes. Visitors stroll through the quarter and observe its traditional architecture. Facilities: Step-free path from the parking area, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible parking or drop-off near the entrance, audio guide, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P108
+Name: Souq Al Tamr
+Category: traditional market
+Price per person: 200 SAR
+Opening hours: 8:00 to 20:00
+Visit duration: 2 to 3 hours
+Walking distance from parking to entrance: 610 m
+Description: Souq Al Tamr is a traditional market devoted to dates of many varieties. Visitors taste samples and talk with the sellers about each type. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P063
+Name: Starlit Sands Camp
+Category: desert experience
+Price per person: 220 SAR
+Opening hours: 16:00 to 24:00
+Visit duration: 5 to 7 hours
+Walking distance from parking to entrance: 320 m
+Description: Starlit Sands Camp is a desert camp where visitors spend time in the dunes. Guests gather outdoors to observe the night sky over the sand. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, staff assistance on request, signs in braille or audio, written information, and staff who can communicate in writing or sign language.
+
+place_id: P077
+Name: Shaib Al Sail Reserve
+Category: nature reserve
+Price per person: 60 SAR
+Opening hours: 6:00 to 19:00
+Visit duration: 1.5 to 3 hours
+Walking distance from parking to entrance: 140 m
+Description: Shaib Al Sail Reserve is a nature reserve around a narrow seasonal watercourse. Visitors watch for waterbirds and study the plants that grow where rainwater gathers. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, accessible parking or drop-off near the entrance, staff assistance on request, signs in braille or audio, written information, and staff who can communicate in writing or sign language.
+
+place_id: P034
+Name: Hisn Al Turab Fort
+Category: heritage site
+Price per person: 105 SAR
+Opening hours: 8:00 to 17:30
+Visit duration: 2 to 3 hours
+Walking distance from parking to entrance: 560 m
+Description: Hisn Al Turab Fort is a historic fort with watchtowers and thick earthen walls. Visitors explore the building and see how it guarded the settlement. Facilities: Ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P018
+Name: Bayt Al Ibda Gallery
+Category: art gallery
+Price per person: 30 SAR
+Opening hours: 11:00 to 23:00
+Visit duration: 1.5 to 2.5 hours
+Walking distance from parking to entrance: 420 m
+Description: Bayt Al Ibda Gallery is an art venue that displays works by emerging and established painters. Visitors circulate through the exhibition spaces and view changing selections of artwork. Facilities: Step-free path from the parking area, lift at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, audio description, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, and visual (flashing) fire alarm.
+
+place_id: P092
+Name: Al Rafraf Skyview Deck
+Category: observation deck
+Price per person: 120 SAR
+Opening hours: 16:00 to 24:00
+Visit duration: 1 to 1.5 hours
+Walking distance from parking to entrance: 120 m
+Description: Al Rafraf Skyview Deck is an observation deck above the surrounding buildings. Visitors take in views of the city and photograph its skyline. Facilities: Step-free path from the parking area, lift at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, audio description, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P109
+Name: Bawwabat Al Shams Mall
+Category: shopping mall
+Price per person: 100 SAR
+Opening hours: 10:00 to 23:00
+Visit duration: 2 to 4 hours
+Walking distance from parking to entrance: 220 m
+Description: Bawwabat Al Shams Mall is an indoor shopping mall with a range of retail stores. Visitors browse the shops, stop for refreshments and spend time in its central halls. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, information on signs and screens, and visual (flashing) fire alarm.
+
+place_id: P066
+Name: Golden Hour Sand Trek
+Category: desert experience
+Price per person: 340 SAR
+Opening hours: 14:30 to 20:30
+Visit duration: 3 to 5 hours
+Walking distance from parking to entrance: 230 m
+Description: Golden Hour Sand Trek is a guided desert walk across dunes. Visitors trek over the sand and view the changing light on the landscape. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible parking or drop-off near the entrance, staff assistance on request, signs in braille or audio, and staff who can communicate in writing or sign language.
+
+place_id: P072
+Name: Dune Crest Quad Expedition
+Category: desert experience
+Price per person: 600 SAR
+Opening hours: 7:00 to 15:00
+Visit duration: 5 to 7 hours
+Walking distance from parking to entrance: 280 m
+Description: Dune Crest Quad Expedition is a desert experience on quad bikes over sand dunes. Visitors ride along dune routes and cross the desert terrain. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, staff assistance on request, signs in braille or audio, written information, and staff who can communicate in writing or sign language.
+
+place_id: P091
+Name: Qimat Al Mashhad Tower
+Category: observation deck
+Price per person: 115 SAR
+Opening hours: 13:00 to 23:00
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 520 m
+Description: Qimat Al Mashhad Tower is a tower with a viewing area at its top. Visitors survey the skyline and the roads that run through it. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, audio guide, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P115
+Name: Qaryat Al Dhiya Mall
+Category: shopping mall
+Price per person: 250 SAR
+Opening hours: 10:00 to 23:30
+Visit duration: 2 to 4 hours
+Walking distance from parking to entrance: 120 m
+Description: Qaryat Al Dhiya Mall is a shopping mall arranged like a small village of stores. Visitors wander between the retail units and stop at its cafes and restaurants. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P116
+Name: Mujamma Al Fajr Mall
+Category: shopping mall
+Price per person: 275 SAR
+Opening hours: 10:00 to 23:00
+Visit duration: 2 to 3 hours
+Walking distance from parking to entrance: 680 m
+Description: Mujamma Al Fajr Mall is an indoor shopping centre with a mix of local and international retailers. Visitors browse the stores and gather in its food court. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P001
+Name: Dar Al Wasm Museum
+Category: history museum
+Price per person: 0 SAR
+Opening hours: 9:00 to 17:00
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 120 m
+Description: Dar Al Wasm Museum presents historical objects connected to the city's past. Visitors move through its indoor exhibits and study the items on display. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, exhibits that can be touched, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P078
+Name: Umm Sidr Nature Reserve
+Category: nature reserve
+Price per person: 80 SAR
+Opening hours: 7:00 to 17:00
+Visit duration: 3 to 4 hours
+Walking distance from parking to entrance: 520 m
+Description: Umm Sidr Nature Reserve is named for its sidr trees and open scrubland. Visitors explore the grounds and observe birds, insects and desert plants. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible parking or drop-off near the entrance, staff assistance on request, signs in braille or audio, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P047
+Name: Keepers of the Old Gate Tour
+Category: guided heritage tour
+Price per person: 270 SAR
+Opening hours: 8:00 to 12:00
+Visit duration: 3 to 4 hours
+Walking distance from parking to entrance: 40 m
+Description: Keepers of the Old Gate Tour is a guided heritage walk centred on a historic city gate. The guide explains its defensive purpose and the streets that once surrounded it. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, sign language interpretation, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P012
+Name: Majlis Al Athar Museum
+Category: history museum
+Price per person: 60 SAR
+Opening hours: 9:00 to 20:00
+Visit duration: 2 to 3 hours
+Walking distance from parking to entrance: 700 m
+Description: Majlis Al Athar Museum is an indoor museum of archaeological and historical finds. Visitors look at the collection and learn about the area's early history. Facilities: Step-free path from the parking area, lift at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, exhibits that can be touched, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P039
+Name: Old Trade Route Tour
+Category: guided heritage tour
+Price per person: 100 SAR
+Opening hours: 8:30 to 11:30
+Visit duration: 2 to 3 hours
+Walking distance from parking to entrance: 310 m
+Description: Old Trade Route Tour follows a historic merchant route through the old city with a guide. Visitors walk the old streets while the guide explains how goods and travellers once moved through the area. Facilities: Level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P131
+Name: Dalla and Dates Cafe
+Category: restaurant cafe
+Price per person: 275 SAR
+Opening hours: 8:00 to 23:00
+Visit duration: 1 to 1.5 hours
+Walking distance from parking to entrance: 190 m
+Description: Dalla and Dates Cafe is a cafe that pairs Arabic coffee from traditional dallah pots with a variety of dates. Visitors taste different date types and sample date-based desserts. Facilities: Step-free path from the parking area, level entrance, wide entrance door, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P122
+Name: Mandi House Al Ghurub
+Category: restaurant cafe
+Price per person: 70 SAR
+Opening hours: 12:00 to 24:00
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 200 m
+Description: Mandi House Al Ghurub is a restaurant specialising in mandi, a slow-cooked rice and meat dish. Diners eat large shared platters and drink traditional tea. Facilities: Step-free path from the parking area, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P101
+Name: Souq Al Dallalin
+Category: traditional market
+Price per person: 90 SAR
+Opening hours: 17:00 to 24:00
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 410 m
+Description: Souq Al Dallalin is a traditional market known for its auction-style trading. Visitors watch traders call out goods and see how deals are made. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, tactile floor paths, staff assistance on request, signs in braille or audio, and information on signs and screens.
+
+place_id: P137
+Name: Masrah Al Raha Theatre
+Category: live show
+Price per person: 240 SAR
+Opening hours: 20:00 to 23:30
+Visit duration: 1.5 to 2.5 hours
+Walking distance from parking to entrance: 170 m
+Description: Masrah Al Raha Theatre is a theatre presenting plays and stage productions. Audiences watch dramas and comedies performed by local casts. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, audio description, tactile floor paths, staff assistance on request, signs in braille or audio, captions, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P076
+Name: Wadi Al Uqab Nature Reserve
+Category: nature reserve
+Price per person: 45 SAR
+Opening hours: 7:00 to 18:00
+Visit duration: 2 to 4 hours
+Walking distance from parking to entrance: 460 m
+Description: Wadi Al Uqab Nature Reserve is a valley reserve with acacia trees and rocky slopes. Visitors walk through the wadi and observe the plants and wildlife that live there. Facilities: Level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible parking or drop-off near the entrance, staff assistance on request, signs in braille or audio, written information, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P004
+Name: Mataf Al Ajdad Museum
+Category: history museum
+Price per person: 15 SAR
+Opening hours: 9:00 to 16:00
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 180 m
+Description: Mataf Al Ajdad Museum exhibits items that belonged to earlier generations of Riyadh residents. Visitors view the collections and learn about the traditions behind them. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, guided tours that describe what is seen, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P054
+Name: Sidr Tree Gardens
+Category: park garden
+Price per person: 25 SAR
+Opening hours: 7:00 to 22:00
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 260 m
+Description: Sidr Tree Gardens is a garden planted with sidr trees native to the region. Visitors explore the grounds and learn about the local plant life. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, accessible parking or drop-off near the entrance, staff assistance on request, signs in braille or audio, and information on signs and screens.
+
+place_id: P058
+Name: Palm Ridge Botanical Garden
+Category: park garden
+Price per person: 45 SAR
+Opening hours: 8:00 to 21:00
+Visit duration: 2 to 3 hours
+Walking distance from parking to entrance: 430 m
+Description: Palm Ridge Botanical Garden is a botanical garden with named collections of regional and desert plants. Visitors explore the plantings and learn about the species grown there. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, accessible parking or drop-off near the entrance, staff assistance on request, signs in braille or audio, written information, and information on signs and screens.
+
+place_id: P082
+Name: Wadi Al Dhib Nature Reserve
+Category: nature reserve
+Price per person: 150 SAR
+Opening hours: 6:00 to 16:30
+Visit duration: 4 to 6 hours
+Walking distance from parking to entrance: 400 m
+Description: Wadi Al Dhib Nature Reserve is a reserve in a wide valley of gravel beds and scattered trees. Visitors survey the landscape and record the wildlife they spot. Facilities: Level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, accessible parking or drop-off near the entrance, staff assistance on request, signs in braille or audio, written information, and information on signs and screens.
+
+place_id: P089
+Name: Burj Al Rih Observation Deck
+Category: observation deck
+Price per person: 100 SAR
+Opening hours: 10:00 to 24:00
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 200 m
+Description: Burj Al Rih Observation Deck is a viewing platform at the upper level of a tower. Visitors look across the city grid toward the edge of the desert. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, audio guide, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P032
+Name: Sur Al Madina Wall Quarter
+Category: heritage site
+Price per person: 75 SAR
+Opening hours: 9:00 to 18:00
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 270 m
+Description: Sur Al Madina Wall Quarter preserves sections of an old city wall and the streets beside it. Visitors follow the wall's course and see how the quarter was once enclosed. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, written information, and staff who can communicate in writing or sign language.
+
+place_id: P044
+Name: Caravan Memories Walking Tour
+Category: guided heritage tour
+Price per person: 200 SAR
+Opening hours: 16:00 to 20:00
+Visit duration: 2 to 3 hours
+Walking distance from parking to entrance: 95 m
+Description: Caravan Memories Walking Tour is a guided heritage walk about the history of overland trade. Visitors follow a guide past old buildings linked to travelling merchants. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible parking or drop-off near the entrance, audio guide, tactile floor paths, staff assistance on request, signs in braille or audio, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P088
+Name: Sama Al Riyadh Lookout
+Category: observation deck
+Price per person: 90 SAR
+Opening hours: 11:00 to 22:00
+Visit duration: 1 to 1.5 hours
+Walking distance from parking to entrance: 330 m
+Description: Sama Al Riyadh Lookout is a high lookout with open views across the city. Visitors identify landmarks and watch the light change over the rooftops. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, audio guide, tactile floor paths, staff assistance on request, signs in braille or audio, written information, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P016
+Name: Sada Al Khat Gallery
+Category: art gallery
+Price per person: 20 SAR
+Opening hours: 12:00 to 22:00
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 310 m
+Description: Sada Al Khat Gallery focuses on calligraphy and written-word art. Visitors study the lettering styles in each piece and observe how artists use script. Facilities: Step-free path from the parking area, ramp at the entrance, step-free access to the main seating or viewing area, step-free access throughout, accessible parking or drop-off near the entrance, exhibits that can be touched, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P003
+Name: Khazna Al Zaman Museum
+Category: history museum
+Price per person: 10 SAR
+Opening hours: 10:00 to 20:00
+Visit duration: 1.5 to 2.5 hours
+Walking distance from parking to entrance: 340 m
+Description: Khazna Al Zaman Museum holds historical objects from different periods of the region's past. Visitors browse the displays and follow the story of the area's development. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, guided tours that describe what is seen, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P042
+Name: Whispers of the Old Quarter Tour
+Category: guided heritage tour
+Price per person: 160 SAR
+Opening hours: 17:00 to 21:00
+Visit duration: 2 to 3 hours
+Walking distance from parking to entrance: 560 m
+Description: Whispers of the Old Quarter Tour is a guided heritage walk through the historic streets of the old city. The guide shares accounts of daily life in the old neighbourhood as the group moves between sites. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, accessible parking or drop-off near the entrance, audio guide, tactile floor paths, staff assistance on request, signs in braille or audio, written information, and staff who can communicate in writing or sign language.
+
+place_id: P023
+Name: Sahat Al Fann Gallery
+Category: art gallery
+Price per person: 70 SAR
+Opening hours: 10:00 to 18:00
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 350 m
+Description: Sahat Al Fann Gallery hosts exhibitions of paintings and other visual art. Visitors tour the displays and see how artists approach different subjects. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, audio description, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P014
+Name: Dar Al Farsha Gallery
+Category: art gallery
+Price per person: 10 SAR
+Opening hours: 11:00 to 21:00
+Visit duration: 1 to 1.5 hours
+Walking distance from parking to entrance: 60 m
+Description: Dar Al Farsha Gallery exhibits paintings and works on canvas in a series of display rooms. Visitors view the pieces and compare the styles of different artists. Facilities: Step-free path from the parking area, lift at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, exhibits that can be touched, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, and visual (flashing) fire alarm.
+
+place_id: P112
+Name: Mujamma Al Yaqut Mall
+Category: shopping mall
+Price per person: 175 SAR
+Opening hours: 10:00 to 24:00
+Visit duration: 2 to 4 hours
+Walking distance from parking to entrance: 180 m
+Description: Mujamma Al Yaqut Mall is an indoor mall with stores selling everyday goods and accessories. Visitors shop, eat at its food outlets and browse the seasonal displays. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, information on signs and screens, and visual (flashing) fire alarm.
+
+place_id: P127
+Name: Dukkan Al Bunn Cafe
+Category: restaurant cafe
+Price per person: 175 SAR
+Opening hours: 7:00 to 24:00
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 50 m
+Description: Dukkan Al Bunn Cafe is a coffee shop that roasts and serves specialty beans. Visitors order espresso drinks and filter coffee with cakes and cookies. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, information on signs and screens, and visual (flashing) fire alarm.
+
+place_id: P104
+Name: Souq Al Zarabil
+Category: traditional market
+Price per person: 130 SAR
+Opening hours: 16:00 to 23:30
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 200 m
+Description: Souq Al Zarabil is an open-air market selling carpets and rugs. Visitors compare the patterns and colours laid out by the stallholders. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P046
+Name: Founders Path Heritage Tour
+Category: guided heritage tour
+Price per person: 240 SAR
+Opening hours: 9:00 to 13:00
+Visit duration: 3 to 4 hours
+Walking distance from parking to entrance: 510 m
+Description: Founders Path Heritage Tour is a guided walk through sites connected to the early history of the settlement. A guide explains the history of the sites along the route. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P142
+Name: Layali Al Ahlam Theatre
+Category: live show
+Price per person: 440 SAR
+Opening hours: 20:00 to 23:30
+Visit duration: 1.5 to 2.5 hours
+Walking distance from parking to entrance: 230 m
+Description: Layali Al Ahlam Theatre is a theatre staging dramatic productions and musical plays. Audiences watch new and classic works presented on its main stage. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, accessible toilet, accessible parking or drop-off near the entrance, audio description, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P043
+Name: Valley Heritage Trail Tour
+Category: guided heritage tour
+Price per person: 180 SAR
+Opening hours: 7:00 to 10:00
+Visit duration: 3 to 4 hours
+Walking distance from parking to entrance: 690 m
+Description: Valley Heritage Trail Tour is a guided walk along a historic wadi. A guide explains how the valley supported farms and settlements in earlier times. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, accessible parking or drop-off near the entrance, audio guide, tactile floor paths, staff assistance on request, signs in braille or audio, sign language interpretation, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P119
+Name: Mujamma Al Ward Mall
+Category: shopping mall
+Price per person: 360 SAR
+Opening hours: 11:00 to 24:00
+Visit duration: 2 to 3 hours
+Walking distance from parking to entrance: 90 m
+Description: Mujamma Al Ward Mall is a covered shopping centre decorated with floral motifs. Visitors browse the boutiques and homeware shops and eat at its restaurants. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P070
+Name: Oryx Plains Desert Camp
+Category: desert experience
+Price per person: 520 SAR
+Opening hours: 15:00 to 23:00
+Visit duration: 6 to 8 hours
+Walking distance from parking to entrance: 520 m
+Description: Oryx Plains Desert Camp is a desert camp on open gravel plains where oryx may be seen. Visitors take part in camp activities and look out over the landscape. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible parking or drop-off near the entrance, staff assistance on request, signs in braille or audio, written information, and staff who can communicate in writing or sign language.
+
+place_id: P110
+Name: Marsa Al Najma Mall
+Category: shopping mall
+Price per person: 125 SAR
+Opening hours: 10:00 to 24:00
+Visit duration: 2 to 4 hours
+Walking distance from parking to entrance: 450 m
+Description: Marsa Al Najma Mall is an indoor shopping mall with clothing, home and gift stores. Visitors walk through the retail areas and pause at its dining outlets. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P067
+Name: Bedouin Fire Camp
+Category: desert experience
+Price per person: 380 SAR
+Opening hours: 17:00 to 24:00
+Visit duration: 5 to 7 hours
+Walking distance from parking to entrance: 690 m
+Description: Bedouin Fire Camp is a desert camp inspired by traditional Bedouin hospitality. Visitors gather around an open fire and take part in customary camp activities. Facilities: Level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible parking or drop-off near the entrance, staff assistance on request, signs in braille or audio, written information, and staff who can communicate in writing or sign language.
+
+place_id: P123
+Name: Bayt Al Qahwa Cafe
+Category: restaurant cafe
+Price per person: 90 SAR
+Opening hours: 6:00 to 24:00
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 130 m
+Description: Bayt Al Qahwa Cafe is a cafe focused on Arabic coffee and light snacks. Visitors drink freshly brewed coffee with dates and pastries. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P057
+Name: Rose Circle Garden
+Category: park garden
+Price per person: 40 SAR
+Opening hours: 9:00 to 22:00
+Visit duration: 1 to 1.5 hours
+Walking distance from parking to entrance: 60 m
+Description: Rose Circle Garden is a garden with circular beds of roses and other flowering plants. Visitors walk around the beds and view the seasonal blooms. Facilities: Ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible parking or drop-off near the entrance, staff assistance on request, signs in braille or audio, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P045
+Name: Lamps of the Old City Tour
+Category: guided heritage tour
+Price per person: 220 SAR
+Opening hours: 18:00 to 22:00
+Visit duration: 2 to 2.5 hours
+Walking distance from parking to entrance: 370 m
+Description: Lamps of the Old City Tour is a guided walk through a historic quarter. The guide explains how lighting and evening life shaped the old city's routines. Facilities: Ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible parking or drop-off near the entrance, audio guide, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P113
+Name: Sahat Al Tijara Mall
+Category: shopping mall
+Price per person: 200 SAR
+Opening hours: 9:00 to 23:00
+Visit duration: 2 to 3 hours
+Walking distance from parking to entrance: 520 m
+Description: Sahat Al Tijara Mall is a shopping mall organised around a central trading court. Visitors look through the stores and sample dishes from its eateries. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P103
+Name: Souq Al Hinna
+Category: traditional market
+Price per person: 115 SAR
+Opening hours: 10:00 to 23:00
+Visit duration: 1.5 to 2 hours
+Walking distance from parking to entrance: 280 m
+Description: Souq Al Hinna is a traditional market where traders sell henna and related plant products. Visitors walk the lanes and see the powders and pastes on the stalls. Facilities: Step-free path from the parking area, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, and information on signs and screens.
+
+place_id: P097
+Name: Souq Al Nahhasin
+Category: traditional market
+Price per person: 30 SAR
+Opening hours: 9:00 to 22:00
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 170 m
+Description: Souq Al Nahhasin is a traditional market where coppersmiths sell metal pots and trays. Visitors browse the stalls and watch how the items are made. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, written information, and staff who can communicate in writing or sign language.
+
+place_id: P053
+Name: Acacia Meadow Park
+Category: park garden
+Price per person: 20 SAR
+Opening hours: 6:30 to 23:30
+Visit duration: 1.5 to 3 hours
+Walking distance from parking to entrance: 480 m
+Description: Acacia Meadow Park is an urban park with open grass and acacia trees. Visitors walk across the meadow and spend time outdoors beneath the canopy. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, accessible parking or drop-off near the entrance, staff assistance on request, signs in braille or audio, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P102
+Name: Souq Al Samn
+Category: traditional market
+Price per person: 100 SAR
+Opening hours: 8:00 to 21:00
+Visit duration: 1 to 1.5 hours
+Walking distance from parking to entrance: 150 m
+Description: Souq Al Samn is a market of stalls selling clarified butter, honey and other regional foods. Visitors sample local produce and browse the displays. Facilities: Step-free path from the parking area, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, and staff who can communicate in writing or sign language.
+
+place_id: P010
+Name: Khizanat Al Rimal Museum
+Category: history museum
+Price per person: 45 SAR
+Opening hours: 9:00 to 17:00
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 150 m
+Description: Khizanat Al Rimal Museum presents objects linked to life in the desert and nearby settlements. Visitors explore its collections of tools, textiles and household items. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible parking or drop-off near the entrance, audio guide, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, and visual (flashing) fire alarm.
+
+place_id: P062
+Name: Rocky Rim Dune Safari
+Category: desert experience
+Price per person: 180 SAR
+Opening hours: 14:00 to 21:00
+Visit duration: 3 to 5 hours
+Walking distance from parking to entrance: 60 m
+Description: Rocky Rim Dune Safari is a desert experience that crosses sand dunes near a rocky escarpment. Visitors travel by vehicle across the dunes and view the desert landscape. Facilities: Step-free path from the parking area, level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible parking or drop-off near the entrance, staff assistance on request, signs in braille or audio, written information, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P125
+Name: Saj and Embers Restaurant
+Category: restaurant cafe
+Price per person: 130 SAR
+Opening hours: 13:00 to 24:00
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 160 m
+Description: Saj and Embers Restaurant prepares flatbreads on a domed griddle and meats over charcoal. Diners choose from wraps, grills and mezze served hot from the kitchen. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible toilet, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+place_id: P029
+Name: Qasr Al Samar Palace
+Category: heritage site
+Price per person: 40 SAR
+Opening hours: 9:00 to 19:00
+Visit duration: 1.5 to 2 hours
+Walking distance from parking to entrance: 230 m
+Description: Qasr Al Samar Palace is a historic palace once used for gatherings and receptions. Visitors tour its halls and courtyards and learn about its former role. Facilities: Level entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible toilet, accessible parking or drop-off near the entrance, audio guide, tactile floor paths, staff assistance on request, signs in braille or audio, written information, and staff who can communicate in writing or sign language.
+
+place_id: P031
+Name: Qalat Al Wadi Fort
+Category: heritage site
+Price per person: 60 SAR
+Opening hours: 8:00 to 18:30
+Visit duration: 2 to 3 hours
+Walking distance from parking to entrance: 780 m
+Description: Qalat Al Wadi Fort is a historic fortification overlooking a nearby valley. Visitors walk along its ramparts and view the surrounding landscape. Facilities: Ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, written information, and staff who can communicate in writing or sign language.
+
+place_id: P033
+Name: Qasr Al Mazraa Palace
+Category: heritage site
+Price per person: 90 SAR
+Opening hours: 9:00 to 20:00
+Visit duration: 1.5 to 2 hours
+Walking distance from parking to entrance: 100 m
+Description: Qasr Al Mazraa Palace is a historic palace set beside former farmland. Visitors explore its rooms and grounds and learn how the estate was used. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, paved paths, accessible parking or drop-off near the entrance, audio guide, tactile floor paths, staff assistance on request, signs in braille or audio, written information, information on signs and screens, and staff who can communicate in writing or sign language.
+
+place_id: P130
+Name: Mirsal Cafe
+Category: restaurant cafe
+Price per person: 250 SAR
+Opening hours: 9:00 to 1:00
+Visit duration: 1 to 2 hours
+Walking distance from parking to entrance: 110 m
+Description: Mirsal Cafe is a cafe offering hot drinks, juices and baked goods. Visitors meet over a cup of coffee and choose from a menu of light meals. Facilities: Step-free path from the parking area, ramp at the entrance, wide entrance door, step-free access to the main seating or viewing area, step-free access throughout, accessible parking or drop-off near the entrance, tactile floor paths, staff assistance on request, signs in braille or audio, information on signs and screens, visual (flashing) fire alarm, and staff who can communicate in writing or sign language.
+
+=== input (what the traveller types) ===
+I'm visiting Riyadh and I'm interested in shopping. I'm blind. My budget is up to 200 SAR per place. Can you recommend 5 places and explain why you chose each one?
+
+=== answer format (API setting) ===
+{
+  "type": "json_schema",
+  "name": "recommendations",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "recommendations": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "place_id": {
+              "type": "string"
+            },
+            "reason": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "place_id",
+            "reason"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "recommendations"
+    ],
+    "additionalProperties": false
+  }
+}
