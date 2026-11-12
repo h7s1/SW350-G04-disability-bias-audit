@@ -9,7 +9,7 @@ The study sent tourism recommendation requests for Riyadh to OpenAI's gpt-6.1-so
 | Folder | Contents |
 |---|---|
 | `stage1/` | Stage 1, groups A, B and C (700 requests): code, the request plan, all 700 answers (`run/answers.jsonl`), and results (`results/`). |
-| `group_d/` | Group D (300 requests), added after the ruselts of groups A, B and C: code, plan (`PLAN_D.md`), the request plan, all 300 answers (`run_D/answers.jsonl`), and results (`results_D/`). |
+| `group_d/` | Group D (300 requests), added after the results of groups A, B and C: code, plan (`PLAN_D.md`), the request plan, all 300 answers (`run_D/answers.jsonl`), and results (`results_D/`). |
 | `stage2/` | Stage 2, follow-up experiments E1 and E2 (1,000 requests): code, plan (`PLAN_E.md`, `PLAN_E_addendum.md`), the request plan, all 1,000 answers (`run_E/answers.jsonl`), and results (`results_E/`). |
 
 Each folder is self-contained and has its own copy of `accessibility_filter_v7_4/` (the filter, the 144 places, the 12 categories, the rules and the filter's decisions). The three copies are identical.
