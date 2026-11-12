@@ -32,3 +32,8 @@ Each folder is self-contained and has its own copy of `accessibility_filter_v7_4
 ## Notes
 
 - `stage2/` also contains the outputs of a fabrication check (`fabrication.py`, `E_fabrication_*.csv`, `fabrication_claims_E.csv`, `study1/fabrication_study1.csv`) that is not reported in the paper.
+
+## License
+
+- Code (`.py` files): MIT License, see `LICENSE`.
+- Data (`.csv`, `.jsonl` and `.txt` files): Creative Commons Attribution 4.0 International (CC BY 4.0).
